@@ -1,0 +1,201 @@
+state,entity_id,entity_name,entity_type,entity_type_raw,domestic,jurisdiction_of_formation,status,formation_date,principal_city,principal_state,principal_zip,county,naics,naics_description,registered_agent_organization,record_url,source_dataset_url
+CO,20268023926,Painters supply LLC,LLC,DLLC,True,CO,Good Standing,2026-09-14,Commerce City,CO,80022,,,,,,https://data.colorado.gov/d/4ykn-tg5h
+CO,20268142306,Mandalex Consulting LLC,LLC,DLLC,True,CO,Good Standing,2026-09-14,Thornton,CO,80602,,,,,,https://data.colorado.gov/d/4ykn-tg5h
+CO,20268143662,WORLD LINE TRADING LLC,LLC,DLLC,True,CO,Good Standing,2026-09-14,DENVER,CO,80203,,,,Registered Agents Inc,,https://data.colorado.gov/d/4ykn-tg5h
+CO,20268143666,"Trevino Holdings Group LLC, Dissolved September 15, 2026",LLC,DLLC,True,CO,Voluntarily Dissolved,2026-09-14,Highlands Ranch,CO,80130,,,,,,https://data.colorado.gov/d/4ykn-tg5h
+CO,20268143667,VELORA CARVELL INC,CORPORATION,DPC,True,CO,Good Standing,2026-09-14,Denver,CO,80203,,,,Registered Agents Inc,,https://data.colorado.gov/d/4ykn-tg5h
+CO,20268143674,MAFSI FLAVORS LLC,LLC,DLLC,True,CO,Good Standing,2026-09-14,DENVER,CO,80203,,,,Registered Agents Inc,,https://data.colorado.gov/d/4ykn-tg5h
+CO,20268143676,WANYE INTERNATIONAL INC,CORPORATION,DPC,True,CO,Good Standing,2026-09-14,Denver,CO,80203,,,,Registered Agents Inc,,https://data.colorado.gov/d/4ykn-tg5h
+CO,20268143677,Lifevix Inc,CORPORATION,DPC,True,CO,Good Standing,2026-09-14,DENVER,CO,80203,,,,Registered Agents Inc,,https://data.colorado.gov/d/4ykn-tg5h
+CO,20268143681,COMA GLOBAL INC,CORPORATION,DPC,True,CO,Good Standing,2026-09-14,DENVER,CO,80203,,,,Registered Agents Inc,,https://data.colorado.gov/d/4ykn-tg5h
+CO,20268143699,Camerlan Stitchwear LLC,LLC,DLLC,True,CO,Good Standing,2026-09-14,Fullerton,ND,58441,,,,BRIXON OUTDOOR LLC,,https://data.colorado.gov/d/4ykn-tg5h
+CO,20268143705,Easton Field Sports LLC,LLC,DLLC,True,CO,Good Standing,2026-09-14,Dubois,WY,82513,,,,BRIXON OUTDOOR LLC,,https://data.colorado.gov/d/4ykn-tg5h
+CO,20268143708,Mearion Tech Inc,CORPORATION,DPC,True,CO,Good Standing,2026-09-14,Colorado Springs,CO,80923,,,,Registered Agents Inc,,https://data.colorado.gov/d/4ykn-tg5h
+CO,20268143709,Oakhaven Dirgital Inc,CORPORATION,DPC,True,CO,Good Standing,2026-09-14,Greenwood Village,CO,80111,,,,Registered Agents Inc,,https://data.colorado.gov/d/4ykn-tg5h
+CO,20268143710,Hayes Apparel LLC,LLC,DLLC,True,CO,Good Standing,2026-09-14,South Fork,CO,81154,,,,BRIXON OUTDOOR LLC,,https://data.colorado.gov/d/4ykn-tg5h
+CO,20268143724,himatia LLC,LLC,DLLC,True,CO,Good Standing,2026-09-14,Denver,CO,80203,,,,,,https://data.colorado.gov/d/4ykn-tg5h
+CO,20268143726,Vigilance Enterprises LLC,LLC,DLLC,True,CO,Good Standing,2026-09-14,Commerce City,CO,80022,,,,,,https://data.colorado.gov/d/4ykn-tg5h
+CO,20268143733,Morgan Blake Apparel LLC,LLC,DLLC,True,CO,Good Standing,2026-09-14,Anselmo,NE,68813,,,,BRIXON OUTDOOR LLC,,https://data.colorado.gov/d/4ykn-tg5h
+CO,20268143735,Noland Activewear LLC,LLC,DLLC,True,CO,Good Standing,2026-09-14,Ashland,KS,67831,,,,BRIXON OUTDOOR LLC,,https://data.colorado.gov/d/4ykn-tg5h
+CO,20268143739,Oakmont Fashion LLC,LLC,DLLC,True,CO,Good Standing,2026-09-14,Mt Hope,WV,25880,,,,BRIXON OUTDOOR LLC,,https://data.colorado.gov/d/4ykn-tg5h
+CO,20268143750,Onyx Security Inc.,CORPORATION,FPC,False,DE,Good Standing,2026-09-14,Tel Aviv,OT,6473925,,,,"Vcorp Agent Services, Inc.",,https://data.colorado.gov/d/4ykn-tg5h
+CO,20268143768,Nordvel Inc,CORPORATION,DPC,True,CO,Good Standing,2026-09-14,Denver,CO,80216,,,,Registered Agents Inc,,https://data.colorado.gov/d/4ykn-tg5h
+CO,20268143773,ISLAMUDDIN MANSOOR LLC,LLC,DLLC,True,CO,Good Standing,2026-09-14,DENVER,CO,80203,,,,Registered Agents Inc,,https://data.colorado.gov/d/4ykn-tg5h
+CO,20268143778,INTERNATIONAL MUSIC AND ARTS ASSOCIATION,NONPROFIT,DNC,True,CO,Good Standing,2026-09-14,DENVER,CO,80203,,,,Registered Agents Inc,,https://data.colorado.gov/d/4ykn-tg5h
+CO,20268143779,JeeMajor LLC,LLC,DLLC,True,CO,Good Standing,2026-09-14,Thornton,CO,80229,,,,,,https://data.colorado.gov/d/4ykn-tg5h
+CO,20268143782,Elite Armor USA LLC,LLC,DLLC,True,CO,Good Standing,2026-09-14,Denver,CO,80203,,,,Northwest Registered Agent LLC,,https://data.colorado.gov/d/4ykn-tg5h
+CO,20268143784,Rockrimmon Capital Group LLC,LLC,DLLC,True,CO,Good Standing,2026-09-14,Denver,CO,80203,,,,Northwest Registered Agent LLC,,https://data.colorado.gov/d/4ykn-tg5h
+CO,20268143785,xdevora LLC,LLC,DLLC,True,CO,Good Standing,2026-09-14,Denver,CO,80203,,,,Registered Agents Inc,,https://data.colorado.gov/d/4ykn-tg5h
+CO,20268143787,Ellouna Care LLC,LLC,DLLC,True,CO,Good Standing,2026-09-14,Denver,CO,80202,,,,Clearview Registered Agents LLC,,https://data.colorado.gov/d/4ykn-tg5h
+CO,20268143790,Free Parenting Advice Foundation,NONPROFIT,DNC,True,CO,Good Standing,2026-09-14,Kailua,HI,96734,,,,,,https://data.colorado.gov/d/4ykn-tg5h
+CO,20261742639,Astronomy Tours LLC,LLC,FLLC,False,HI,Good Standing,2026-09-15,Lahaina,HI,96761,,,,,,https://data.colorado.gov/d/4ykn-tg5h
+CO,20261808784,True Host LLC,LLC,DLLC,True,CO,Good Standing,2026-09-15,Pueblo,CO,81004,,,,,,https://data.colorado.gov/d/4ykn-tg5h
+CO,20261840414,W Seth Hamilton LLC,LLC,DLLC,True,CO,Good Standing,2026-09-15,Aurora,CO,80012,,,,,,https://data.colorado.gov/d/4ykn-tg5h
+CO,20261849187,BVC 27040 BV Storage LLC,LLC,FLLC,False,DE,Good Standing,2026-09-15,New York,NY,10016,,,,"Vcorp Agent Services, Inc.",,https://data.colorado.gov/d/4ykn-tg5h
+CO,20268045085,Dovetail Advisory LLC,LLC,DLLC,True,CO,Good Standing,2026-09-15,Denver,CO,80227,,,,,,https://data.colorado.gov/d/4ykn-tg5h
+CO,20268046017,Willson Plumbing LLC,LLC,DLLC,True,CO,Good Standing,2026-09-15,Gypsum,CO,81637,,,,,,https://data.colorado.gov/d/4ykn-tg5h
+CO,20268075816,Ashtanga Yoga Boulder LLC,LLC,DLLC,True,CO,Good Standing,2026-09-15,Boulder,CO,80301,,,,,,https://data.colorado.gov/d/4ykn-tg5h
+CO,20268077084,Sunrise Collective LLC,LLC,DLLC,True,CO,Good Standing,2026-09-15,Westmister,CO,80234,,,,,,https://data.colorado.gov/d/4ykn-tg5h
+CO,20268078805,"Company 1485, LLC",LLC,DLLC,True,CO,Good Standing,2026-09-15,Boulder,CO,80303,,,,,,https://data.colorado.gov/d/4ykn-tg5h
+CO,20268081486,SLR Consulting LLC,LLC,DLLC,True,CO,Good Standing,2026-09-15,Lakewood,CO,80214,,,,,,https://data.colorado.gov/d/4ykn-tg5h
+CO,20268100927,Broomfield Encounter,NONPROFIT,DNC,True,CO,Good Standing,2026-09-15,Broomfield,CO,80020,,,,"Grady CPA Group, Inc.",,https://data.colorado.gov/d/4ykn-tg5h
+CO,20268125234,AETHER INTELLIGENCE INC.,CORPORATION,DPC,True,CO,Good Standing,2026-09-15,DENVER,CO,80203-1994,,,,Colorado agent services inc,,https://data.colorado.gov/d/4ykn-tg5h
+CO,20268141063,FirstPoint Processing LLC,LLC,FLLC,False,NV,Good Standing,2026-09-15,LAS VEGAS,NV,89146,,,,Registered Agents Inc,,https://data.colorado.gov/d/4ykn-tg5h
+CO,20268146047,Precision Pipe Works LLC,LLC,DLLC,True,CO,Good Standing,2026-09-15,Monument,CO,80132,,,,,,https://data.colorado.gov/d/4ykn-tg5h
+CO,20268146869,Vesper Pulse Inc,CORPORATION,DPC,True,CO,Good Standing,2026-09-15,Colorado Springs,CO,80918,,,,Registered Agents Inc,,https://data.colorado.gov/d/4ykn-tg5h
+CO,20268146872,Solis Vanguard Inc,CORPORATION,DPC,True,CO,Good Standing,2026-09-15,Longmont,CO,80501,,,,Registered Agents Inc,,https://data.colorado.gov/d/4ykn-tg5h
+CO,20268146875,Gerid Crest Inc,CORPORATION,DPC,True,CO,Good Standing,2026-09-15,Boulder,CO,80305,,,,Registered Agents Inc,,https://data.colorado.gov/d/4ykn-tg5h
+CO,20268146878,Vectra Mind Inc,CORPORATION,DPC,True,CO,Good Standing,2026-09-15,Westminster,CO,80023,,,,Registered Agents Inc,,https://data.colorado.gov/d/4ykn-tg5h
+CO,20268146879,Jb collectables LLC,LLC,DLLC,True,CO,Good Standing,2026-09-15,Denver,CO,80111,,,,,,https://data.colorado.gov/d/4ykn-tg5h
+CO,20268146883,Quantra Ltd,CORPORATION,DPC,True,CO,Good Standing,2026-09-15,DENVER,CO,80203,,,,Registered Agents Inc,,https://data.colorado.gov/d/4ykn-tg5h
+CO,20268146886,GCC Nexus American LLC,LLC,DLLC,True,CO,Good Standing,2026-09-15,DENVER,CO,80203,,,,Registered Agents Inc,,https://data.colorado.gov/d/4ykn-tg5h
+CO,20268146889,ARABIAN GATE LLC,LLC,DLLC,True,CO,Good Standing,2026-09-15,DENVER,CO,80203,,,,Registered Agents Inc,,https://data.colorado.gov/d/4ykn-tg5h
+CO,20268146892,Nexura Scope Inc,CORPORATION,DPC,True,CO,Good Standing,2026-09-15,Denver,CO,80209,,,,Registered Agents Inc,,https://data.colorado.gov/d/4ykn-tg5h
+CO,20268146897,Miracle Rise Inc,CORPORATION,DPC,True,CO,Good Standing,2026-09-15,DENVER,CO,80203,,,,Registered Agents Inc,,https://data.colorado.gov/d/4ykn-tg5h
+CO,20268146902,Tasmora Inc,CORPORATION,DPC,True,CO,Good Standing,2026-09-15,DENVER,CO,80203,,,,Registered Agents Inc,,https://data.colorado.gov/d/4ykn-tg5h
+CO,20268146906,SeasonScape Living Inc,CORPORATION,DPC,True,CO,Good Standing,2026-09-15,DENVER,CO,80203,,,,Registered Agents Inc,,https://data.colorado.gov/d/4ykn-tg5h
+CO,20268146908,Orionix Key Inc,CORPORATION,DPC,True,CO,Good Standing,2026-09-15,Montrose,CO,81401,,,,Registered Agents Inc,,https://data.colorado.gov/d/4ykn-tg5h
+CO,20268146914,Elion Spark Inc,CORPORATION,DPC,True,CO,Good Standing,2026-09-15,Golden,CO,80401,,,,Registered Agents Inc,,https://data.colorado.gov/d/4ykn-tg5h
+CO,20268146915,Aven Vault Inc,CORPORATION,DPC,True,CO,Good Standing,2026-09-15,Denver,CO,80222,,,,Registered Agents Inc,,https://data.colorado.gov/d/4ykn-tg5h
+CO,20261159910,ReinBuilt Corporation,CORPORATION,FPC,False,WA,Good Standing,2026-09-16,Denver,CO,80203,,,,Registered Agents Inc,,https://data.colorado.gov/d/4ykn-tg5h
+CO,20268029043,"ATAC, LLC, Dissolved September 17, 2026",NONPROFIT,DNC,True,CO,Voluntarily Dissolved,2026-09-16,Lakewood,CO,80226,,,,All-Terrain Adventure Crew LLC,,https://data.colorado.gov/d/4ykn-tg5h
+CO,20268136972,"ARVL, LLC",LLC,DLLC,True,CO,Good Standing,2026-09-16,Denver,CO,80203,,,,Registered Agents Inc,,https://data.colorado.gov/d/4ykn-tg5h
+CO,20268150400,LEMER NC Ltd,CORPORATION,DPC,True,CO,Good Standing,2026-09-16,Denver,CO,80203,,,,Streamway Registered Agent LLC,,https://data.colorado.gov/d/4ykn-tg5h
+CO,20268150404,Goldstream Technology Inc,CORPORATION,DPC,True,CO,Good Standing,2026-09-16,Denver,CO,80202,,,,Quicker Business Solutions Inc.,,https://data.colorado.gov/d/4ykn-tg5h
+CO,20268150405,"Leading Trader International Trading Co., Ltd.",CORPORATION,DPC,True,CO,Good Standing,2026-09-16,Denver,CO,80290,,,,Registered Agents Inc,,https://data.colorado.gov/d/4ykn-tg5h
+CO,20268150406,Geleo International Group Corp,CORPORATION,DPC,True,CO,Good Standing,2026-09-16,DENVER,CO,80203,,,,Registered Agents Inc,,https://data.colorado.gov/d/4ykn-tg5h
+CO,20268150411,FUNNY ONION LTD,CORPORATION,DPC,True,CO,Good Standing,2026-09-16,DENVER,CO,80203,,,,Registered Agents Inc,,https://data.colorado.gov/d/4ykn-tg5h
+CO,20268150415,GA GREEN ARMEE LTD,CORPORATION,DPC,True,CO,Good Standing,2026-09-16,Denver,CO,80203,,,,Streamway Registered Agent LLC,,https://data.colorado.gov/d/4ykn-tg5h
+CO,20268150429,Kinetix Spark Inc,CORPORATION,DPC,True,CO,Good Standing,2026-09-16,Steamboat Springs,CO,80487,,,,Registered Agents Inc,,https://data.colorado.gov/d/4ykn-tg5h
+CO,20268150450,Kats Glam LLC,LLC,DLLC,True,CO,Good Standing,2026-09-16,Thornton,CO,80233,,,,Northwest Registered Agent LLC,,https://data.colorado.gov/d/4ykn-tg5h
+CO,20268150491,Orionix Ventures Inc,CORPORATION,DPC,True,CO,Good Standing,2026-09-16,Westminster,CO,80234,,,,Registered Agents Inc,,https://data.colorado.gov/d/4ykn-tg5h
+CO,20268150497,MomosHobbyDen Inc,CORPORATION,DPC,True,CO,Good Standing,2026-09-16,DENVER,CO,80203,,,,Registered Agents Inc,,https://data.colorado.gov/d/4ykn-tg5h
+CO,20268150511,Nelora Commerce LLC,LLC,DLLC,True,CO,Good Standing,2026-09-16,Denver,CO,80203,,,,Registered Agents Inc,,https://data.colorado.gov/d/4ykn-tg5h
+CO,20268150516,Two Brain Games LLC,LLC,FLLC,False,TX,Good Standing,2026-09-16,Austin,TX,78731-4298,,,,Registered Agents Inc,,https://data.colorado.gov/d/4ykn-tg5h
+CO,20268150536,Zennithor Inc,CORPORATION,DPC,True,CO,Good Standing,2026-09-16,DENVER,CO,80203,,,,Registered Agents Inc,,https://data.colorado.gov/d/4ykn-tg5h
+CO,20268150549,XURUIYANGNH LLC,LLC,DLLC,True,CO,Good Standing,2026-09-16,Aspen,CO,81611,,,,ALIKGARG LLC,,https://data.colorado.gov/d/4ykn-tg5h
+CO,20268150551,Nyvarkis Inc,CORPORATION,DPC,True,CO,Good Standing,2026-09-16,DENVER,CO,80203,,,,Nyvarkis Inc,,https://data.colorado.gov/d/4ykn-tg5h
+CO,20268150553,KLYRIONEX TECHNOLOGIES INC,CORPORATION,DPC,True,CO,Good Standing,2026-09-16,Aurora,CO,80013,,,,Global Accounting service inc.,,https://data.colorado.gov/d/4ykn-tg5h
+CO,20268150562,Bluepeak Mercantile LTD,CORPORATION,DPC,True,CO,Good Standing,2026-09-16,Denver,CO,80204,,,,Global Accounting service inc.,,https://data.colorado.gov/d/4ykn-tg5h
+CO,20268150569,CoolSync LLC,LLC,DLLC,True,CO,Good Standing,2026-09-16,ATLANTA,GA,30350,,,,Registered Agents Inc,,https://data.colorado.gov/d/4ykn-tg5h
+CO,20268150571,MicroGust LLC,LLC,DLLC,True,CO,Good Standing,2026-09-16,Kalispell,MT,59901,,,,Registered Agents Inc,,https://data.colorado.gov/d/4ykn-tg5h
+CO,20268150572,WindRush LLC,LLC,DLLC,True,CO,Good Standing,2026-09-16,St. Petersburg,FL,33702,,,,Registered Agents Inc,,https://data.colorado.gov/d/4ykn-tg5h
+CO,20268150573,Aimlora Target LLC,LLC,DLLC,True,CO,Good Standing,2026-09-16,Centerville,TN,37033,,,,Northwest Registered Agent LLC,,https://data.colorado.gov/d/4ykn-tg5h
+CO,20268150593,VAYALIL GLOBAL TRADING INC,CORPORATION,DPC,True,CO,Good Standing,2026-09-16,Lakewood,CO,80226,,,,Trusted Agency Inc.,,https://data.colorado.gov/d/4ykn-tg5h
+CO,20268150602,"YANCHUN CO., LIMITED",CORPORATION,DPC,True,CO,Good Standing,2026-09-16,Denver,CO,80202,,,,Trusted Agency Inc.,,https://data.colorado.gov/d/4ykn-tg5h
+CO,20268150605,VAYNEX Evergreen Technologies Inc,CORPORATION,DPC,True,CO,Good Standing,2026-09-16,DENVER,CO,80203,,,,Registered Agents Inc,,https://data.colorado.gov/d/4ykn-tg5h
+CO,20268150607,"BIAODI CO., LIMITED",CORPORATION,DPC,True,CO,Good Standing,2026-09-16,Basalt,CO,81621,,,,Trusted Agency Inc.,,https://data.colorado.gov/d/4ykn-tg5h
+CO,20268150630,"Kechihua Co., Ltd.",LLC,DLLC,True,CO,Good Standing,2026-09-16,DENVER,CO,80203,,,,Registered Agents Inc,,https://data.colorado.gov/d/4ykn-tg5h
+CO,20268119790,Altona Way LLC,LLC,DLLC,True,CO,Good Standing,2026-09-17,Denver,CO,80203,,,,Northwest Registered Agent LLC,,https://data.colorado.gov/d/4ykn-tg5h
+CO,20268139388,Breck Kingdom LLC,LLC,DLLC,True,CO,Good Standing,2026-09-17,Breckenridge,CO,80424,,,,,,https://data.colorado.gov/d/4ykn-tg5h
+CO,20268139818,Giam Group LLC,LLC,DLLC,True,CO,Good Standing,2026-09-17,Breckenridge,CO,80424,,,,,,https://data.colorado.gov/d/4ykn-tg5h
+CO,20268139992,Breck Briar LLC,LLC,DLLC,True,CO,Good Standing,2026-09-17,Breckenridge,CO,80424,,,,,,https://data.colorado.gov/d/4ykn-tg5h
+CO,20268140120,Empire Breck LLC,LLC,DLLC,True,CO,Good Standing,2026-09-17,Breckenridge,CO,80424,,,,,,https://data.colorado.gov/d/4ykn-tg5h
+CO,20268152281,North of Ash Limited,LLC,DLLC,True,CO,Good Standing,2026-09-17,Lakewood,CO,80226,,,,,,https://data.colorado.gov/d/4ykn-tg5h
+CO,20268153728,D3 Electrical LLC,LLC,DLLC,True,CO,Good Standing,2026-09-17,Denver,CO,80202,,,,ENTITY PROTECT REGISTERED AGENT SERVICES LLC,,https://data.colorado.gov/d/4ykn-tg5h
+CO,20268153734,Kynix Tech Inc,CORPORATION,DPC,True,CO,Good Standing,2026-09-17,Steamboat Springs,CO,80487,,,,Registered Agents Inc,,https://data.colorado.gov/d/4ykn-tg5h
+CO,20268153736,Elysian Matrix Inc,CORPORATION,DPC,True,CO,Good Standing,2026-09-17,Telluride,CO,81435,,,,Registered Agents Inc,,https://data.colorado.gov/d/4ykn-tg5h
+CO,20268153739,Kustomize It Unlimited LLC,LLC,DLLC,True,CO,Good Standing,2026-09-17,Eagle,CO,81631,,,,,,https://data.colorado.gov/d/4ykn-tg5h
+CO,20268153740,Zentara Edge Inc,CORPORATION,DPC,True,CO,Good Standing,2026-09-17,Mountain Village,CO,81435,,,,Registered Agents Inc,,https://data.colorado.gov/d/4ykn-tg5h
+CO,20268153758,Bluewave Branding Inc,CORPORATION,DPC,True,CO,Good Standing,2026-09-17,Loveland,CO,80537,,,,Northwest Registered Agent LLC,,https://data.colorado.gov/d/4ykn-tg5h
+CO,20268153761,LunarArc Interactive Inc.,CORPORATION,DPC,True,CO,Good Standing,2026-09-17,Denver,CO,80202,,,,Rocky Mountain RA LLC,,https://data.colorado.gov/d/4ykn-tg5h
+CO,20268153768,DIYACRYL INC,CORPORATION,DPC,True,CO,Good Standing,2026-09-17,Denver,CO,80203,,,,Registered Agents Inc,,https://data.colorado.gov/d/4ykn-tg5h
+CO,20268153773,"American JNCN Technology Co., Ltd.",CORPORATION,DPC,True,CO,Good Standing,2026-09-17,Denver,CO,80203,,,,Registered Agents Inc,,https://data.colorado.gov/d/4ykn-tg5h
+CO,20268153774,MYLH LLC,LLC,DLLC,True,CO,Good Standing,2026-09-17,Denver,CO,80203,,,,Northwest Registered Agent LLC,,https://data.colorado.gov/d/4ykn-tg5h
+CO,20268153775,Jergensen Land & Livestock LLC,LLC,DLLC,True,CO,Good Standing,2026-09-17,Ramah,CO,80832,,,,Northwest Registered Agent LLC,,https://data.colorado.gov/d/4ykn-tg5h
+CO,20268153777,Kazazc Home LLC,LLC,DLLC,True,CO,Good Standing,2026-09-17,Denver,CO,80203,,,,Northwest Registered Agent LLC,,https://data.colorado.gov/d/4ykn-tg5h
+CO,20268153780,NovaPlay Interactive Inc.,CORPORATION,DPC,True,CO,Good Standing,2026-09-17,Denver,CO,80202,,,,Rocky Mountain RA LLC,,https://data.colorado.gov/d/4ykn-tg5h
+CO,20268153784,YuanVibe Global Ltd,CORPORATION,DPC,True,CO,Good Standing,2026-09-17,Denver,CO,80203,,,,Registered Agents Inc,,https://data.colorado.gov/d/4ykn-tg5h
+CO,20268153788,Huicron Agencia Ltd,CORPORATION,DPC,True,CO,Good Standing,2026-09-17,Denver,CO,80206,,,,Colorado Registered Agent LLC,,https://data.colorado.gov/d/4ykn-tg5h
+CO,20268153794,Dovaryn Leaf Inc,CORPORATION,DPC,True,CO,Good Standing,2026-09-17,Fort Collins,CO,80526,,,,Colorado Registered Agent LLC,,https://data.colorado.gov/d/4ykn-tg5h
+CO,20268153797,MONOCHROME CORPORATION LLC,LLC,DLLC,True,CO,Good Standing,2026-09-17,Denver,CO,80237,,,,ZHC INTERNATIONAL GROUP LLC,,https://data.colorado.gov/d/4ykn-tg5h
+CO,20268153801,Vince Dauer LLC,LLC,DLLC,True,CO,Good Standing,2026-09-17,Fort Collins,CO,80526,,,,,,https://data.colorado.gov/d/4ykn-tg5h
+CO,20268153802,Skyline Digital Works Inc.,CORPORATION,DPC,True,CO,Good Standing,2026-09-17,Denver,CO,80202,,,,Rocky Mountain RA LLC,,https://data.colorado.gov/d/4ykn-tg5h
+CO,20268153812,USA Satco Crop Nutrition INC,CORPORATION,DPC,True,CO,Good Standing,2026-09-17,Denver,CO,80202,,,,Registration Agent Corporation,,https://data.colorado.gov/d/4ykn-tg5h
+CO,20268153815,Banin for Engineering and Investment LLC,LLC,DLLC,True,CO,Good Standing,2026-09-17,Denver,CO,80203,,,,Northwest Registered Agent LLC,,https://data.colorado.gov/d/4ykn-tg5h
+CO,20268153819,"QINGHE LIFE TECHNOLOGY CO., LTD.",CORPORATION,DPC,True,CO,Good Standing,2026-09-17,DENVER,CO,80203,,,,Registered Agents Inc,,https://data.colorado.gov/d/4ykn-tg5h
+CO,20268153820,Epics Treasures LLC,LLC,DLLC,True,CO,Good Standing,2026-09-17,Greeley,CO,80634,,,,,,https://data.colorado.gov/d/4ykn-tg5h
+CO,20261536561,Blue Haven Woodworking LLC,LLC,DLLC,True,CO,Good Standing,2026-09-18,Brighton,CO,80601,,,,,,https://data.colorado.gov/d/4ykn-tg5h
+CO,20268108132,"Arity Mobility Solutions, LLC",LLC,FLLC,False,DE,Good Standing,2026-09-18,Chicago,IL,60654,,,,C T CORPORATION SYSTEM,,https://data.colorado.gov/d/4ykn-tg5h
+CO,20268115577,LeftLingo LLC,LLC,DLLC,True,CO,Good Standing,2026-09-18,Steamboat Springs,CO,80487,,,,,,https://data.colorado.gov/d/4ykn-tg5h
+CO,20268117199,"Market Foundry, LLC",LLC,DLLC,True,CO,Good Standing,2026-09-18,Denver,CO,80202,,,,CORPORATION SERVICE COMPANY,,https://data.colorado.gov/d/4ykn-tg5h
+CO,20268142714,Barks and Parks LLC,LLC,DLLC,True,CO,Good Standing,2026-09-18,Denver,CO,80227,,,,,,https://data.colorado.gov/d/4ykn-tg5h
+CO,20268154716,Colorado VolleyConnect LLC,LLC,DLLC,True,CO,Good Standing,2026-09-18,Ramah,CO,80832,,,,,,https://data.colorado.gov/d/4ykn-tg5h
+CO,20268156551,SummitVita INC,CORPORATION,DPC,True,CO,Good Standing,2026-09-18,Aurora,CO,80013,,,,Global Accounting service inc.,,https://data.colorado.gov/d/4ykn-tg5h
+CO,20268156553,MSFC Sourcing & Trade LLC,LLC,DLLC,True,CO,Good Standing,2026-09-18,Jersey City,NJ,07302,,,,Registered Agents Inc,,https://data.colorado.gov/d/4ykn-tg5h
+CO,20268156556,RockyVita INC,CORPORATION,DPC,True,CO,Good Standing,2026-09-18,Aurora,CO,80013,,,,Global Accounting service inc.,,https://data.colorado.gov/d/4ykn-tg5h
+CO,20268156558,ColumbineVita INC,CORPORATION,DPC,True,CO,Good Standing,2026-09-18,Aurora,CO,80013,,,,Global Accounting service inc.,,https://data.colorado.gov/d/4ykn-tg5h
+CO,20268156560,"Bongolo Friends, Inc.",NONPROFIT,FNC,False,IN,Good Standing,2026-09-18,Pittsburgh,PA,15212,,,,Registered Agents Inc,,https://data.colorado.gov/d/4ykn-tg5h
+CO,20268156563,AquamarineVita INC,CORPORATION,DPC,True,CO,Good Standing,2026-09-18,Aurora,CO,80013,,,,Global Accounting service inc.,,https://data.colorado.gov/d/4ykn-tg5h
+CO,20268156567,AMB Stores LLC,LLC,DLLC,True,CO,Good Standing,2026-09-18,Wilmington,DE,19801,,,,Registered Agents Inc,,https://data.colorado.gov/d/4ykn-tg5h
+CO,20268156576,NatureVital INC,CORPORATION,DPC,True,CO,Good Standing,2026-09-18,Aurora,CO,80013,,,,Global Accounting service inc.,,https://data.colorado.gov/d/4ykn-tg5h
+CO,20268156583,Summitize INC,CORPORATION,DPC,True,CO,Good Standing,2026-09-18,Aurora,CO,80013,,,,Global Accounting service inc.,,https://data.colorado.gov/d/4ykn-tg5h
+CO,20268156587,Summit Ridge Property Solutions LLC,LLC,DLLC,True,CO,Good Standing,2026-09-18,Thornton,CO,80241,,,,,,https://data.colorado.gov/d/4ykn-tg5h
+CO,20268156593,"DREAM COUTURE, LLC",LLC,DLLC,True,CO,Good Standing,2026-09-18,Woodbridge,VA,22193,,,,"CORPORATE SERVICE CENTER, INC.",,https://data.colorado.gov/d/4ykn-tg5h
+CO,20268156602,FINCUT BRD LLC,LLC,DLLC,True,CO,Good Standing,2026-09-18,Denver,CO,80203,,,,Northwest Registered Agent LLC,,https://data.colorado.gov/d/4ykn-tg5h
+CO,20268156603,DUANBINGYANRK LLC,LLC,DLLC,True,CO,Good Standing,2026-09-18,CENTENNIAL,CO,80015,,,,ALIKGARG LLC,,https://data.colorado.gov/d/4ykn-tg5h
+CO,20268156604,WellDock INC,CORPORATION,DPC,True,CO,Good Standing,2026-09-18,Aurora,CO,80013,,,,Global Accounting service inc.,,https://data.colorado.gov/d/4ykn-tg5h
+CO,20268156606,Merovix Group LLC,LLC,DLLC,True,CO,Good Standing,2026-09-18,DENVER,CO,80203,,,,Registered Agents Inc,,https://data.colorado.gov/d/4ykn-tg5h
+CO,20268156612,Pacific Rim Goods INC,CORPORATION,DPC,True,CO,Good Standing,2026-09-18,Aurora,CO,80013,,,,Global Accounting service inc.,,https://data.colorado.gov/d/4ykn-tg5h
+CO,20268156618,Veris Forge Inc,CORPORATION,DPC,True,CO,Good Standing,2026-09-18,Winter Park,CO,80482,,,,Registered Agents Inc,,https://data.colorado.gov/d/4ykn-tg5h
+CO,20268156621,Astra Kestrel Inc,CORPORATION,DPC,True,CO,Good Standing,2026-09-18,Crested Butte,CO,81224,,,,Registered Agents Inc,,https://data.colorado.gov/d/4ykn-tg5h
+CO,20268156624,Veloce Logic Inc,CORPORATION,DPC,True,CO,Good Standing,2026-09-18,Castle Pines,CO,80108,,,,Registered Agents Inc,,https://data.colorado.gov/d/4ykn-tg5h
+CO,20268156629,Veros Zenith Inc,CORPORATION,DPC,True,CO,Good Standing,2026-09-18,Greenwood Village,CO,80111,,,,Registered Agents Inc,,https://data.colorado.gov/d/4ykn-tg5h
+CO,20268156633,Barn Owl LLC,LLC,DLLC,True,CO,Good Standing,2026-09-18,Denver,CO,80202,,,,"9179 Hunter St, LLC",,https://data.colorado.gov/d/4ykn-tg5h
+CO,20268156640,Coleman Enterprises LLC,LLC,DLLC,True,CO,Good Standing,2026-09-18,Wilmington,DE,19801,,,,Registered Agents Inc,,https://data.colorado.gov/d/4ykn-tg5h
+CO,20268156647,"OCEANLINK TRADING CO., LTD",CORPORATION,DPC,True,CO,Good Standing,2026-09-18,DENVER,CO,80203,,,,Registered Agents Inc,,https://data.colorado.gov/d/4ykn-tg5h
+CO,20268159947,Zyxtix Inc,CORPORATION,DPC,True,CO,Good Standing,2026-09-19,Denver,CO,80203,,,,Registered Agents Inc,,https://data.colorado.gov/d/4ykn-tg5h
+CO,20268159951,Pixelwave Digital LLC,LLC,DLLC,True,CO,Good Standing,2026-09-19,DENVER,CO,80203,,,,Registered Agents Inc,,https://data.colorado.gov/d/4ykn-tg5h
+CO,20268159954,MASTERY & PRECISE BUSINESS HOUSE LLC,LLC,DLLC,True,CO,Good Standing,2026-09-19,DENVER,CO,80203,,,,Registered Agents Inc,,https://data.colorado.gov/d/4ykn-tg5h
+CO,20268159965,Cornwall Alliance for the Stewardship of Creation,NONPROFIT,FNC,False,TN,Good Standing,2026-09-19,Eads,TN,38028,,,,Registered Agents Inc,,https://data.colorado.gov/d/4ykn-tg5h
+CO,20268159971,Cirelia Apparel INC,CORPORATION,DPC,True,CO,Good Standing,2026-09-19,Denver,CO,80203,,,,Registered Agents Inc,,https://data.colorado.gov/d/4ykn-tg5h
+CO,20268159976,O'Rourke Auto Solutions Ltd.,LLC,DLLC,True,CO,Good Standing,2026-09-19,Denver,CO,80223,,,,,,https://data.colorado.gov/d/4ykn-tg5h
+CO,20268159978,Pioneer Hills Ranch LLC,LLC,DLLC,True,CO,Good Standing,2026-09-19,Centennial,CO,80015,,,,,,https://data.colorado.gov/d/4ykn-tg5h
+CO,20268159993,GZ Living LLC,LLC,DLLC,True,CO,Good Standing,2026-09-19,Littleton,CO,80123,,,,,,https://data.colorado.gov/d/4ykn-tg5h
+CO,20268159994,MEAL SUPPORT INC,CORPORATION,DPC,True,CO,Good Standing,2026-09-19,Butler,PA,16001,,,,Registered Agents Inc,,https://data.colorado.gov/d/4ykn-tg5h
+CO,20268159997,Trafford Auto Rentals LLC,LLC,DLLC,True,CO,Good Standing,2026-09-19,Denver,CO,80231,,,,Colorado Center for Life and Justice LLC,,https://data.colorado.gov/d/4ykn-tg5h
+CO,20268159998,ZE FILING LLC,LLC,DLLC,True,CO,Good Standing,2026-09-19,Denver,CO,80203,,,,Registered Agents Inc,,https://data.colorado.gov/d/4ykn-tg5h
+CO,20268159999,Facai Limited,CORPORATION,DPC,True,CO,Good Standing,2026-09-19,Denver,CO,80203,,,,Registered Agents Inc,,https://data.colorado.gov/d/4ykn-tg5h
+CO,20268160016,Vantage Point Insurance LLC,LLC,DLLC,True,CO,Good Standing,2026-09-19,Frederick,CO,80530,,,,,,https://data.colorado.gov/d/4ykn-tg5h
+CO,20268160022,Harrison Handyman and Home Services LLC,LLC,DLLC,True,CO,Good Standing,2026-09-19,Colorado springs,CO,80910,,,,,,https://data.colorado.gov/d/4ykn-tg5h
+CO,20268160023,"Fletcher Family Management, L.L.C.",LLC,FLLC,False,TX,Good Standing,2026-09-19,Dallas,TX,75209,,,,,,https://data.colorado.gov/d/4ykn-tg5h
+CO,20268160033,D&C Group LLC,LLC,DLLC,True,CO,Good Standing,2026-09-19,Englewood,CO,80110,,,,,,https://data.colorado.gov/d/4ykn-tg5h
+CO,20268160038,"Fletcher Interests Management, L.L.C.",LLC,FLLC,False,TX,Good Standing,2026-09-19,Dallas,TX,75209,,,,,,https://data.colorado.gov/d/4ykn-tg5h
+CO,20268160039,"Reclaim Your Strength, LLC",LLC,DLLC,True,CO,Good Standing,2026-09-19,Commerce City,CO,80022,,,,,,https://data.colorado.gov/d/4ykn-tg5h
+CO,20268160046,"Fletcher Family Interests, Ltd.",PARTNERSHIP,FLP,False,TX,Good Standing,2026-09-19,Dallas,TX,75209,,,,,,https://data.colorado.gov/d/4ykn-tg5h
+CO,20268160052,Elevate Tax LLC,LLC,DLLC,True,CO,Good Standing,2026-09-19,Aurora,CO,80019,,,,,,https://data.colorado.gov/d/4ykn-tg5h
+CO,20268160059,Bespoke Dental Anesthesia LLC,LLC,DLLC,True,CO,Good Standing,2026-09-19,Fort Collins,CO,80528,,,,"Montoya Medical Services, LLC",,https://data.colorado.gov/d/4ykn-tg5h
+CO,20268160066,Three Suns Skin Care LLC,LLC,DLLC,True,CO,Good Standing,2026-09-19,Denver,CO,80221,,,,,,https://data.colorado.gov/d/4ykn-tg5h
+CO,20268160074,Mississippi Will Music LLC,LLC,DLLC,True,CO,Good Standing,2026-09-19,Colorado Springs,CO,80910,,,,,,https://data.colorado.gov/d/4ykn-tg5h
+CO,20268160084,Samara's Sanctuary Studios Limited Co-op Association,CORPORATION,DLCA-PBC,True,CO,Good Standing,2026-09-19,Lexington,SC,29073,,,,,,https://data.colorado.gov/d/4ykn-tg5h
+CO,20268160089,Merchant Fund Relay LLC,LLC,DLLC,True,CO,Good Standing,2026-09-19,Loveland,CO,80537,,,,Colorado Registered Agent LLC,,https://data.colorado.gov/d/4ykn-tg5h
+CO,20268160093,"Project Cure, Inc.",NONPROFIT,FNC,False,DC,Good Standing,2026-09-19,Lakewood Ranch,FL,34202,,,,CORPORATE CREATIONS NETWORK INC.,,https://data.colorado.gov/d/4ykn-tg5h
+CO,20268160094,Gridzen Limited,CORPORATION,DPC,True,CO,Good Standing,2026-09-19,DENVER,CO,80203,,,,Registered Agents Inc,,https://data.colorado.gov/d/4ykn-tg5h
+CO,20268160097,PINOL Grounds LLC,LLC,DLLC,True,CO,Good Standing,2026-09-19,Aurora,CO,80247,,,,,,https://data.colorado.gov/d/4ykn-tg5h
+CO,20268160102,Unbuilt demolition & recycling llc,LLC,DLLC,True,CO,Good Standing,2026-09-19,Arvada,CO,80002,,,,,,https://data.colorado.gov/d/4ykn-tg5h
+CO,20268161031,Forsyth Asset Management Limited,CORPORATION,DPC,True,CO,Good Standing,2026-09-20,DENVER,CO,80203,,,,Registered Agents Inc,,https://data.colorado.gov/d/4ykn-tg5h
+CO,20268161037,KNAUER GLOBAL TRADING INC,CORPORATION,DPC,True,CO,Good Standing,2026-09-20,Denver,CO,80222,,,,Trusted Agency Inc.,,https://data.colorado.gov/d/4ykn-tg5h
+CO,20268161039,Aestus Forge Inc,CORPORATION,DPC,True,CO,Good Standing,2026-09-20,Greeley,CO,80634,,,,Registered Agents Inc,,https://data.colorado.gov/d/4ykn-tg5h
+CO,20268161040,"AMERICAN GAGU PRECISION INDUSTRIES CO., LTD.",CORPORATION,DPC,True,CO,Good Standing,2026-09-20,Parker,CO,80134,,,,Trusted Agency Inc.,,https://data.colorado.gov/d/4ykn-tg5h
+CO,20268161042,Novur Craft Inc,CORPORATION,DPC,True,CO,Good Standing,2026-09-20,Grand Junction,CO,81505,,,,Registered Agents Inc,,https://data.colorado.gov/d/4ykn-tg5h
+CO,20268161044,Nodus Anchor Inc,CORPORATION,DPC,True,CO,Good Standing,2026-09-20,Rifle,CO,81650,,,,Registered Agents Inc,,https://data.colorado.gov/d/4ykn-tg5h
+CO,20268161045,Luminaq Flow Inc,CORPORATION,DPC,True,CO,Good Standing,2026-09-20,Fort Collins,CO,80525,,,,Registered Agents Inc,,https://data.colorado.gov/d/4ykn-tg5h
+CO,20268161048,Auraq Labs Inc,CORPORATION,DPC,True,CO,Good Standing,2026-09-20,Fort Collins,CO,80521,,,,Registered Agents Inc,,https://data.colorado.gov/d/4ykn-tg5h
+CO,20268161049,Zenixa Shift Inc,CORPORATION,DPC,True,CO,Good Standing,2026-09-20,Greeley,CO,80634,,,,Registered Agents Inc,,https://data.colorado.gov/d/4ykn-tg5h
+CO,20268161050,Kynetic Vector Inc,CORPORATION,DPC,True,CO,Good Standing,2026-09-20,Grand Junction,CO,81505,,,,Registered Agents Inc,,https://data.colorado.gov/d/4ykn-tg5h
+CO,20268161052,Aethel Matrix Inc,CORPORATION,DPC,True,CO,Good Standing,2026-09-20,Lakewood,CO,80226,,,,Registered Agents Inc,,https://data.colorado.gov/d/4ykn-tg5h
+CO,20268161055,Vesper Apex Inc,CORPORATION,DPC,True,CO,Good Standing,2026-09-20,Fort Collins,CO,80525,,,,Registered Agents Inc,,https://data.colorado.gov/d/4ykn-tg5h
+CO,20268161059,Clydesdales Creative LLC,LLC,DLLC,True,CO,Good Standing,2026-09-20,Englewood,CO,80113,,,,,,https://data.colorado.gov/d/4ykn-tg5h
+CO,20268161063,Fournier Delivery Services LLC,LLC,DLLC,True,CO,Good Standing,2026-09-20,Commerce City,CO,80022,,,,,,https://data.colorado.gov/d/4ykn-tg5h
+CO,20268161068,reCODE Performance LLC,LLC,DLLC,True,CO,Good Standing,2026-09-20,Basalt,CO,81621,,,,"Roaring Fork Wellness Collective, LLC",,https://data.colorado.gov/d/4ykn-tg5h
+CO,20268161095,Hunting Travel LLC,LLC,DLLC,True,CO,Good Standing,2026-09-20,Denver,CO,80229,,,,,,https://data.colorado.gov/d/4ykn-tg5h
+CO,20268161102,RiseForge,NONPROFIT,DNC,True,CO,Good Standing,2026-09-20,Colorado Springs,CO,80903,,,,,,https://data.colorado.gov/d/4ykn-tg5h
+CO,20268161107,OPN LLC,LLC,DLLC,True,CO,Good Standing,2026-09-20,Denver,CO,80235,,,,,,https://data.colorado.gov/d/4ykn-tg5h
+CO,20268161112,"Majek! Mobile Massage Chairs, LLC",LLC,DLLC,True,CO,Good Standing,2026-09-20,Windsor,CO,80550,,,,,,https://data.colorado.gov/d/4ykn-tg5h
+CO,20268161119,Joythentic LLC,LLC,DLLC,True,CO,Good Standing,2026-09-20,Greenwood Village,CO,80111,,,,,,https://data.colorado.gov/d/4ykn-tg5h
+CO,20268161120,"CTFB Investments, LLC",LLC,FLLC,False,OK,Good Standing,2026-09-20,Berthoud,CO,80513,,,,,,https://data.colorado.gov/d/4ykn-tg5h
+CO,20268161126,Solstice Stays LLC,LLC,DLLC,True,CO,Good Standing,2026-09-20,Erie,CO,80516,,,,,,https://data.colorado.gov/d/4ykn-tg5h
+CO,20268161130,The Elevated Kitchen Ltd.,LLC,DLLC,True,CO,Good Standing,2026-09-20,Pine,CO,80470,,,,,,https://data.colorado.gov/d/4ykn-tg5h
+CO,20268161155,ORio Visuals LLC,LLC,DLLC,True,CO,Good Standing,2026-09-20,Denver,CO,80203,,,,Registered Agents Inc,,https://data.colorado.gov/d/4ykn-tg5h
+CO,20268161166,Rosedale Automotive LLC,LLC,DLLC,True,CO,Good Standing,2026-09-20,Denver,CO,80210,,,,,,https://data.colorado.gov/d/4ykn-tg5h
+CO,20268161169,"Tim Burrell PT, DPT LLC",LLC,DLLC,True,CO,Good Standing,2026-09-20,Boulder,CO,80305,,,,,,https://data.colorado.gov/d/4ykn-tg5h

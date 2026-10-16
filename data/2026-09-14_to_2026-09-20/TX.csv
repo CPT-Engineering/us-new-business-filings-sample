@@ -1,0 +1,201 @@
+state,entity_id,entity_name,entity_type,entity_type_raw,domestic,jurisdiction_of_formation,status,formation_date,principal_city,principal_state,principal_zip,county,naics,naics_description,registered_agent_organization,record_url,source_dataset_url
+TX,0806747356,ROSS TIMBER COMPANY LLC,LLC,CL (Texas limited liability company),True,TX,Active,2026-09-14,CAMDEN,TX,75934,,,,,,https://data.texas.gov/d/9cir-efmm
+TX,0806747969,"MELO PRODUCE & LOGISTICS, LLC",LLC,CL (Texas limited liability company),True,TX,Active,2026-09-14,ALAMO,TX,78516,,,,,,https://data.texas.gov/d/9cir-efmm
+TX,0806748672,BARBACOA LOS BROTHERS LLC,LLC,CL (Texas limited liability company),True,TX,Active,2026-09-14,EL PASO,TX,79912,,,,,,https://data.texas.gov/d/9cir-efmm
+TX,0806748766,ABEN BROTHERS LLC,LLC,CL (Texas limited liability company),True,TX,Active,2026-09-14,BUDA,TX,78610,,,,,,https://data.texas.gov/d/9cir-efmm
+TX,0806754011,"75TH AVENUE, LLC",LLC,CL (Texas limited liability company),True,TX,Active,2026-09-14,SCHERTZ,TX,78154,,,,,,https://data.texas.gov/d/9cir-efmm
+TX,0806763007,"JMI MANAGEMENT, L.P.",PARTNERSHIP,PF (Foreign limited partnership),False,,Active,2026-09-14,LIBERTY HILL,TX,78642,,,,,,https://data.texas.gov/d/9cir-efmm
+TX,0806769595,"WISE FAMILY TRUSTS, LLC",LLC,CL (Texas limited liability company),True,TX,Active,2026-09-14,FRISCO,TX,75034,,525920,,,,https://data.texas.gov/d/9cir-efmm
+TX,0806776093,HEROKIND AI LLC,LLC,CL (Texas limited liability company),True,TX,Active,2026-09-14,HOUSTON,TX,77019,,511210,,,,https://data.texas.gov/d/9cir-efmm
+TX,0806781012,THE MUNCH CLUB LLC,LLC,CL (Texas limited liability company),True,TX,Active,2026-09-14,THE COLONY,TX,75056,,,,,,https://data.texas.gov/d/9cir-efmm
+TX,0806781633,"PUNCHLIST PROSTX, LLC",LLC,CL (Texas limited liability company),True,TX,Active,2026-09-14,HOUSTON,TX,77077,,,,,,https://data.texas.gov/d/9cir-efmm
+TX,0806784116,SAGE & CO. SOLUTIONS LLC,LLC,CL (Texas limited liability company),True,TX,Active,2026-09-14,DALLAS,TX,75227,,,,,,https://data.texas.gov/d/9cir-efmm
+TX,0806784542,A RIVERA TRANSPORT LLC,LLC,CL (Texas limited liability company),True,TX,Active,2026-09-14,KATY,TX,77449,,,,,,https://data.texas.gov/d/9cir-efmm
+TX,0806784906,"SEMPER FI HOME SERVICES, LLC",LLC,CL (Texas limited liability company),True,TX,Active,2026-09-14,HOUSTON,TX,77080,,,,,,https://data.texas.gov/d/9cir-efmm
+TX,0806786117,TORO POWER ELECTRIC LLC,LLC,CL (Texas limited liability company),True,TX,Active,2026-09-14,BROOKSHIRE,TX,77423,,,,,,https://data.texas.gov/d/9cir-efmm
+TX,0806786982,ANKAA MOTORCARS LLC,LLC,CL (Texas limited liability company),True,TX,Active,2026-09-14,WHITESBORO,TX,76273,,,,,,https://data.texas.gov/d/9cir-efmm
+TX,0806787466,FOURTHSQUARE GROUP LLC,LLC,CL (Texas limited liability company),True,TX,Active,2026-09-14,IRVING,TX,75062,,,,,,https://data.texas.gov/d/9cir-efmm
+TX,0806788224,CRITICAL SIGNAL SOLUTIONS LLC,LLC,CL (Texas limited liability company),True,TX,Active,2026-09-14,DENISON,TX,75021,,,,,,https://data.texas.gov/d/9cir-efmm
+TX,0806789153,SANTANA CONSTRUCTION SOLUTIONS LLC,LLC,CL (Texas limited liability company),True,TX,Active,2026-09-14,LA MARQUE,TX,77568,,,,,,https://data.texas.gov/d/9cir-efmm
+TX,0806789157,KINWITS TECHNOLOGIES LLC,LLC,CL (Texas limited liability company),True,TX,Active,2026-09-14,PROSPER,TX,75078,,813920,,,,https://data.texas.gov/d/9cir-efmm
+TX,0806789193,TRUTH LEGACY PROPERTY SOLUTIONS LLC,LLC,CL (Texas limited liability company),True,TX,Active,2026-09-14,TERRELL,TX,75160,,,,,,https://data.texas.gov/d/9cir-efmm
+TX,0806789562,VAROM LOGISTICS LLC,LLC,CL (Texas limited liability company),True,TX,Active,2026-09-14,EL PASO,TX,79907,,,,,,https://data.texas.gov/d/9cir-efmm
+TX,0806789902,KJ SIGNATURE CLEANING SERVICES LLC,LLC,CL (Texas limited liability company),True,TX,Active,2026-09-14,RICHMOND,TX,77407,,561720,,,,https://data.texas.gov/d/9cir-efmm
+TX,0806790631,HARTMANN'S ART & CONCESSIONS LLC,LLC,CL (Texas limited liability company),True,TX,Active,2026-09-14,BALLWIN,MO,63011,,,,,,https://data.texas.gov/d/9cir-efmm
+TX,0806791569,ZOONA LLC,LLC,CL (Texas limited liability company),True,TX,Active,2026-09-14,HOUSTON,TX,77082,,,,,,https://data.texas.gov/d/9cir-efmm
+TX,0806791692,RICHMAN USA LLC,LLC,CL (Texas limited liability company),True,TX,Active,2026-09-14,PLANO,TX,75024,,,,,,https://data.texas.gov/d/9cir-efmm
+TX,0806791851,WE ARE BOBANS,NONPROFIT,CN (Texas nonprofit corporation),True,TX,Active,2026-09-14,SAN ANTONIO,TX,78255,,,,,,https://data.texas.gov/d/9cir-efmm
+TX,0806792316,BEAGLES AND BARKS VETERINARY SERVICES PLLC,LLC,CL (Texas limited liability company),True,TX,Active,2026-09-14,WHITEHOUSE,TX,75791,,,,,,https://data.texas.gov/d/9cir-efmm
+TX,0806792348,RONANKI EXPERT SOLUTIONS LLC,LLC,CL (Texas limited liability company),True,TX,Active,2026-09-14,PLANO,TX,75024,,,,,,https://data.texas.gov/d/9cir-efmm
+TX,0806792633,HARDLINE FABRICATION LLC,LLC,CL (Texas limited liability company),True,TX,Active,2026-09-14,SILSBEE,TX,77656,,,,,,https://data.texas.gov/d/9cir-efmm
+TX,0806735966,VIBRA SERVICE SOLUTIONS LLC,LLC,CL (Texas limited liability company),True,TX,Active,2026-09-15,ALLEN,TX,75013,,,,,,https://data.texas.gov/d/9cir-efmm
+TX,0806749426,THIRD COAST ENGRAVING HTX LLC,LLC,CL (Texas limited liability company),True,TX,Active,2026-09-15,HOUSTON,TX,77011,,,,,,https://data.texas.gov/d/9cir-efmm
+TX,0806757342,MISSION ROAD BINGO UNIT,NONPROFIT,CN (Texas nonprofit corporation),True,TX,Active,2026-09-15,SAN ANTONIO,TX,78209,,,,,,https://data.texas.gov/d/9cir-efmm
+TX,0806757371,SOUTHEAST MILITARY BINGO UNIT,NONPROFIT,CN (Texas nonprofit corporation),True,TX,Active,2026-09-15,SAN ANTONIO,TX,78209,,,,,,https://data.texas.gov/d/9cir-efmm
+TX,0806768554,DINEX INDUSTRIAL SUPPLY LLC,LLC,CL (Texas limited liability company),True,TX,Active,2026-09-15,EL PASO,TX,79911,,423840,,,,https://data.texas.gov/d/9cir-efmm
+TX,0806772902,MOROBUILD CONSTRUCTION LLC,LLC,CL (Texas limited liability company),True,TX,Active,2026-09-15,ARLINGTON,TX,76011,,,,,,https://data.texas.gov/d/9cir-efmm
+TX,0806773867,GEMVALE LABS LLC,LLC,CL (Texas limited liability company),True,TX,Active,2026-09-15,AUSTIN,TX,78731,,519130,,,,https://data.texas.gov/d/9cir-efmm
+TX,0806775300,"LANCAN CARE GROUP, LLC",LLC,CL (Texas limited liability company),True,TX,Active,2026-09-15,BEAUMONT,TX,77703,,,,,,https://data.texas.gov/d/9cir-efmm
+TX,0806776079,REST2MINT LLC,LLC,CL (Texas limited liability company),True,TX,Active,2026-09-15,FRISCO,TX,75035,,,,,,https://data.texas.gov/d/9cir-efmm
+TX,0806776431,NEXT LEVEL CUSTOM CARPENTRY LLC,LLC,CL (Texas limited liability company),True,TX,Active,2026-09-15,KENNEDALE,TX,76060,,,,,,https://data.texas.gov/d/9cir-efmm
+TX,0806776712,I-20 EAST MEDIAWORKS LLC,LLC,CL (Texas limited liability company),True,TX,Active,2026-09-15,LANTANA,TX,76226,,,,,,https://data.texas.gov/d/9cir-efmm
+TX,0806776762,"FORD TELERADIOLOGY, PLLC",LLC,CL (Texas limited liability company),True,TX,Active,2026-09-15,SUGAR LAND,TX,77479,,,,,,https://data.texas.gov/d/9cir-efmm
+TX,0806779006,"REVIVED & ELEVATED SERVICES, LLC.",LLC,CL (Texas limited liability company),True,TX,Active,2026-09-15,CYPRESS,TX,77429,,,,,,https://data.texas.gov/d/9cir-efmm
+TX,0806782307,"B&C DEVELOPMENT, LLC",LLC,CL (Texas limited liability company),True,TX,Active,2026-09-15,LUBBOCK,TX,79464,,,,,,https://data.texas.gov/d/9cir-efmm
+TX,0806784620,MICHELLE MARINA THOMAS VENTURES LLC,LLC,CL (Texas limited liability company),True,TX,Active,2026-09-15,GRAND PRAIRIE,TX,75051,,532310,,,,https://data.texas.gov/d/9cir-efmm
+TX,0806785463,"CRYSTALLINE GOODS, LLC",LLC,CL (Texas limited liability company),True,TX,Active,2026-09-15,PIPE CREEK,TX,78063,,,,,,https://data.texas.gov/d/9cir-efmm
+TX,0806786426,"T & D LAWN SERVICE, LLC",LLC,CL (Texas limited liability company),True,TX,Active,2026-09-15,ROCKWALL,TX,75087,,,,,,https://data.texas.gov/d/9cir-efmm
+TX,0806786872,SCHIRO LAW FIRM PLLC,LLC,CL (Texas limited liability company),True,TX,Active,2026-09-15,SAN ANTONIO,TX,78210,,,,,,https://data.texas.gov/d/9cir-efmm
+TX,0806787731,MAYOR LEGACY HOLDINGS LLC,LLC,CI (Foreign limited liability company),False,,Active,2026-09-15,BROOKSHIRE,TX,77423,,,,,,https://data.texas.gov/d/9cir-efmm
+TX,0806788256,DRSIMPLICIOS LLC,LLC,CL (Texas limited liability company),True,TX,Active,2026-09-15,HUFFMAN,TX,77336,,,,,,https://data.texas.gov/d/9cir-efmm
+TX,0806788419,MURPHY LEARNING CENTER AT DALLAS LLC,LLC,CL (Texas limited liability company),True,TX,Active,2026-09-15,MURPHY,TX,75094,,,,,,https://data.texas.gov/d/9cir-efmm
+TX,0806789317,"ABMG MANAGEMENT, LLC",LLC,CL (Texas limited liability company),True,TX,Active,2026-09-15,FORT WORTH,TX,76126,,,,,,https://data.texas.gov/d/9cir-efmm
+TX,0806789365,"SLAB & SLEEVE, LLC",LLC,CL (Texas limited liability company),True,TX,Active,2026-09-15,SPRING,TX,77386,,,,,,https://data.texas.gov/d/9cir-efmm
+TX,0806789419,BLUE RIDGE PETRO HOLDING LLC,LLC,CL (Texas limited liability company),True,TX,Active,2026-09-15,ROCKWALL,TX,75087,,,,,,https://data.texas.gov/d/9cir-efmm
+TX,0806789526,BLUE RIDGE BUSINESS LLC,LLC,CL (Texas limited liability company),True,TX,Active,2026-09-15,ROCKWALL,TX,75087,,,,,,https://data.texas.gov/d/9cir-efmm
+TX,0806789733,TRAJECTORY HEALTH LLC,LLC,CL (Texas limited liability company),True,TX,Active,2026-09-15,HOUSTON,TX,77063,,,,,,https://data.texas.gov/d/9cir-efmm
+TX,0806790532,CRAFT & CROWN COMPANY LLC,LLC,CL (Texas limited liability company),True,TX,Active,2026-09-15,HOUSTON,TX,77054,,,,,,https://data.texas.gov/d/9cir-efmm
+TX,0806790984,SPIRIT A2B TRANSPORT LLC,LLC,CL (Texas limited liability company),True,TX,Active,2026-09-15,MIDLAND,TX,79705,,,,,,https://data.texas.gov/d/9cir-efmm
+TX,0806791149,"BRIENZ WEALTH MANAGEMENT, LLC",LLC,CI (Foreign limited liability company),False,,Active,2026-09-15,FORT WORTH,TX,76102,,,,,,https://data.texas.gov/d/9cir-efmm
+TX,0806696940,CWATT SOLUTIONS LLC,LLC,CL (Texas limited liability company),True,TX,Active,2026-09-16,HOUSTON,TX,77045,,541620,,,,https://data.texas.gov/d/9cir-efmm
+TX,0806698724,MOTION STAYS LLC,LLC,CL (Texas limited liability company),True,TX,Active,2026-09-16,FORT WORTH,TX,76131,,,,,,https://data.texas.gov/d/9cir-efmm
+TX,0806768367,KNIGHT AND DAY MECHANICAL LLC,LLC,CL (Texas limited liability company),True,TX,Active,2026-09-16,THE COLONY,TX,75056,,,,,,https://data.texas.gov/d/9cir-efmm
+TX,0806778327,CISAAC LC,LLC,CL (Texas limited liability company),True,TX,Active,2026-09-16,KATY,TX,77449,,,,,,https://data.texas.gov/d/9cir-efmm
+TX,0806780636,NATNEST LLC,LLC,CL (Texas limited liability company),True,TX,Active,2026-09-16,LAKE DALLAS,TX,75065,,,,,,https://data.texas.gov/d/9cir-efmm
+TX,0806782981,"WISE-DERRICK OIL & GAS, LLC",LLC,CL (Texas limited liability company),True,TX,Active,2026-09-16,FRISCO,TX,75035,,,,,,https://data.texas.gov/d/9cir-efmm
+TX,0806784131,"CRYSTAVEN, LLC",LLC,CL (Texas limited liability company),True,TX,Active,2026-09-16,MANSFIELD,TX,76063,,,,,,https://data.texas.gov/d/9cir-efmm
+TX,0806785303,IM KEYSTONE ASSETS RECOVERY GROUP LLC,LLC,CL (Texas limited liability company),True,TX,Active,2026-09-16,LEWISVILLE,TX,75067,,,,,,https://data.texas.gov/d/9cir-efmm
+TX,0806793830,CLEAR ADVANTAGES TRUCKING LLC,LLC,CL (Texas limited liability company),True,TX,Active,2026-09-16,MANSFIELD,TX,76063,,,,,,https://data.texas.gov/d/9cir-efmm
+TX,0806794057,RIPPLE ONE LLC,LLC,CL (Texas limited liability company),True,TX,Active,2026-09-16,KATY,TX,77494,,,,,,https://data.texas.gov/d/9cir-efmm
+TX,0806794629,"SELAH BOOKKEEPING & ADVISORY, LLC",LLC,CL (Texas limited liability company),True,TX,Active,2026-09-16,BAYTOWN,TX,77520,,,,,,https://data.texas.gov/d/9cir-efmm
+TX,0806794655,XUEYANSHOP LLC,LLC,CL (Texas limited liability company),True,TX,Active,2026-09-16,ARLINGTON,TX,76010,,,,,,https://data.texas.gov/d/9cir-efmm
+TX,0806794749,DOLPHIN HALO DIGITAL LLC,LLC,CL (Texas limited liability company),True,TX,Active,2026-09-16,EDINBURG,TX,78541,,,,,,https://data.texas.gov/d/9cir-efmm
+TX,0806794799,HUONG NGUYEN LE LLC,LLC,CL (Texas limited liability company),True,TX,Active,2026-09-16,GRAND PRAIRIE,TX,75052,,,,,,https://data.texas.gov/d/9cir-efmm
+TX,0806794884,POKEYAKI GRILL LLC,LLC,CL (Texas limited liability company),True,TX,Active,2026-09-16,ALVIN,TX,77511,,,,,,https://data.texas.gov/d/9cir-efmm
+TX,0806795212,BEREAVEMENT BRIDGE,NONPROFIT,CN (Texas nonprofit corporation),True,TX,Active,2026-09-16,SCHERTZ,TX,78154,,,,,,https://data.texas.gov/d/9cir-efmm
+TX,0806795453,THE VERIFIED GUYS LLC,LLC,CI (Foreign limited liability company),False,,Active,2026-09-16,HOUSTON,TX,77093,,,,,,https://data.texas.gov/d/9cir-efmm
+TX,0806795647,AA MOBILE TRUCK AND TRAILER REPAIR LLC,LLC,CL (Texas limited liability company),True,TX,Active,2026-09-16,TERRELL,TX,75160,,,,,,https://data.texas.gov/d/9cir-efmm
+TX,0806795848,VERIFIED ROOFING GROUP LLC,LLC,CI (Foreign limited liability company),False,,Active,2026-09-16,HOUSTON,TX,77093,,,,,,https://data.texas.gov/d/9cir-efmm
+TX,0806796378,M&J BOUTIQUE LLC,LLC,CL (Texas limited liability company),True,TX,Active,2026-09-16,BEDFORD,TX,76021,,,,,,https://data.texas.gov/d/9cir-efmm
+TX,0806796412,ISOVATE LLC,LLC,CL (Texas limited liability company),True,TX,Active,2026-09-16,ODESSA,TX,79763,,,,,,https://data.texas.gov/d/9cir-efmm
+TX,0806796451,LOPEZ & LOPEZ TRANSPORT LLC,LLC,CL (Texas limited liability company),True,TX,Active,2026-09-16,IRVING,TX,75060,,,,,,https://data.texas.gov/d/9cir-efmm
+TX,0806796625,ONYX DIRECT LLC,LLC,CL (Texas limited liability company),True,TX,Active,2026-09-16,FORT WORTH,TX,76133,,484110,,,,https://data.texas.gov/d/9cir-efmm
+TX,0806796717,IMPACTFUL HEALTHCARE SVS LLC,LLC,CL (Texas limited liability company),True,TX,Active,2026-09-16,ROSHARON,TX,77583,,,,,,https://data.texas.gov/d/9cir-efmm
+TX,0806796853,HIGHLAND PARK VC LLC,LLC,CL (Texas limited liability company),True,TX,Active,2026-09-16,DALLAS,TX,75209,,,,,,https://data.texas.gov/d/9cir-efmm
+TX,0806796868,T. N. B. COLLECTIVE LLC,LLC,CL (Texas limited liability company),True,TX,Active,2026-09-16,WYLIE,TX,75098,,,,,,https://data.texas.gov/d/9cir-efmm
+TX,0806796881,NEXT2GO LLC,LLC,CL (Texas limited liability company),True,TX,Active,2026-09-16,HOUSTON,TX,77061,,,,,,https://data.texas.gov/d/9cir-efmm
+TX,0806796890,AUDIENCE UPSIDE LLC,LLC,CL (Texas limited liability company),True,TX,Active,2026-09-16,LEWISVILLE,TX,75077,,,,,,https://data.texas.gov/d/9cir-efmm
+TX,0806796893,GRENIER GLOBAL INVESTMENTS LLC,LLC,CL (Texas limited liability company),True,TX,Active,2026-09-16,DRIPPING SPGS,TX,78620,,,,,,https://data.texas.gov/d/9cir-efmm
+TX,0806752066,MCKINNEY LAND MANAGEMENT LLC,LLC,CL (Texas limited liability company),True,TX,Active,2026-09-17,PECOS,TX,79772,,,,,,https://data.texas.gov/d/9cir-efmm
+TX,0806781122,TABLEMINGLE LLC,LLC,CL (Texas limited liability company),True,TX,Active,2026-09-17,AUSTIN,TX,78731,,,,,,https://data.texas.gov/d/9cir-efmm
+TX,0806796265,TRUBOXING LLC,LLC,CL (Texas limited liability company),True,TX,Active,2026-09-17,IRVING,TX,75061,,,,,,https://data.texas.gov/d/9cir-efmm
+TX,0806796304,EL JEFE CIGARS CO.2 LLC,LLC,CL (Texas limited liability company),True,TX,Active,2026-09-17,DALLAS,TX,75204,,,,,,https://data.texas.gov/d/9cir-efmm
+TX,0806797208,"NORTHSTAR INVESTMENT HOLDINGS, LLC",LLC,CL (Texas limited liability company),True,TX,Active,2026-09-17,LUCAS,TX,75002,,,,,,https://data.texas.gov/d/9cir-efmm
+TX,0806797218,"MEADOWBROOK PROSPERITY, LLC",LLC,CL (Texas limited liability company),True,TX,Active,2026-09-17,LUCAS,TX,75002,,,,,,https://data.texas.gov/d/9cir-efmm
+TX,0806797300,9G AIRPLANE DETAILING LLC,LLC,CL (Texas limited liability company),True,TX,Active,2026-09-17,MIDLAND,TX,79705,,,,,,https://data.texas.gov/d/9cir-efmm
+TX,0806797369,ENV TRUCKING LLC,LLC,CL (Texas limited liability company),True,TX,Active,2026-09-17,CREEDMOOR,TX,78610,,,,,,https://data.texas.gov/d/9cir-efmm
+TX,0806797501,JADIS CARGO LOGISTICS LLC,LLC,CL (Texas limited liability company),True,TX,Active,2026-09-17,BEDFORD,TX,76021,,,,,,https://data.texas.gov/d/9cir-efmm
+TX,0806797777,"C & M & L, LLC",LLC,CL (Texas limited liability company),True,TX,Active,2026-09-17,LAREDO,TX,78041,,,,,,https://data.texas.gov/d/9cir-efmm
+TX,0806798093,CHAMPION BUILT LLC,LLC,CL (Texas limited liability company),True,TX,Active,2026-09-17,SUNSET,TX,76270,,,,,,https://data.texas.gov/d/9cir-efmm
+TX,0806798209,AL MUQARAB LOGISTICS LLC,LLC,CL (Texas limited liability company),True,TX,Active,2026-09-17,HOUSTON,TX,77083,,,,,,https://data.texas.gov/d/9cir-efmm
+TX,0806798514,4 LEAF + 8 LLC,LLC,CL (Texas limited liability company),True,TX,Active,2026-09-17,GATESVILLE,TX,76528,,,,,,https://data.texas.gov/d/9cir-efmm
+TX,0806798687,SCHMELTER ENTERPRISES LLC,LLC,CL (Texas limited liability company),True,TX,Active,2026-09-17,WEST COLUMBIA,TX,77486,,,,,,https://data.texas.gov/d/9cir-efmm
+TX,0806798839,LONGROD GARAGE DOOR AND GATE SOLUTIONS LLC,LLC,CL (Texas limited liability company),True,TX,Active,2026-09-17,CONROE,TX,77301,,,,,,https://data.texas.gov/d/9cir-efmm
+TX,0806798854,"BROTHERS UNITED CARPET CLEANING RESTORATION, LLC",LLC,CL (Texas limited liability company),True,TX,Active,2026-09-17,MCKINNEY,TX,75069,,,,,,https://data.texas.gov/d/9cir-efmm
+TX,0806798858,LERNOWA LLC,LLC,CL (Texas limited liability company),True,TX,Active,2026-09-17,AUSTIN,TX,78731,,,,,,https://data.texas.gov/d/9cir-efmm
+TX,0806798912,WALL OF SCRAP LLC,LLC,CL (Texas limited liability company),True,TX,Active,2026-09-17,MCKINNEY,TX,75070,,,,,,https://data.texas.gov/d/9cir-efmm
+TX,0806798927,KAIZEN AUTO IMPORTS LLC,LLC,CL (Texas limited liability company),True,TX,Active,2026-09-17,AUSTIN,TX,78731,,,,,,https://data.texas.gov/d/9cir-efmm
+TX,0806798970,TEXAS BLUE LOGISTICS LLC,LLC,CL (Texas limited liability company),True,TX,Active,2026-09-17,CROSBY,TX,77532,,,,,,https://data.texas.gov/d/9cir-efmm
+TX,0806798978,GLOBAL PROCUREMENT SERVICES LLC,LLC,CL (Texas limited liability company),True,TX,Active,2026-09-17,THE WOODLANDS,TX,77380,,,,,,https://data.texas.gov/d/9cir-efmm
+TX,0806798979,"LONE STAR EXECUTIVE INSIGHTS, LLC",LLC,CL (Texas limited liability company),True,TX,Active,2026-09-17,CORINTH,TX,76208,,,,,,https://data.texas.gov/d/9cir-efmm
+TX,0806798984,"S. BENJAMIN HOLDINGS, LLC",LLC,CL (Texas limited liability company),True,TX,Active,2026-09-17,ROSHARON,TX,77583,,,,,,https://data.texas.gov/d/9cir-efmm
+TX,0806799013,PH AQUATICS LLC,LLC,CL (Texas limited liability company),True,TX,Active,2026-09-17,MISSOURI CITY,TX,77459,,,,,,https://data.texas.gov/d/9cir-efmm
+TX,0806799019,NORTHWOODS PUBLISHING LLC,LLC,CL (Texas limited liability company),True,TX,Active,2026-09-17,BAGWELL,TX,75412,,,,,,https://data.texas.gov/d/9cir-efmm
+TX,0806799044,"GULF EXPLORATION, L.L.C.",LLC,CI (Foreign limited liability company),False,,Active,2026-09-17,MALAKOFF,TX,75148,,,,,,https://data.texas.gov/d/9cir-efmm
+TX,0806799051,"ASAPP PARKING, LLC",LLC,CL (Texas limited liability company),True,TX,Active,2026-09-17,DALLAS,TX,75208,,,,,,https://data.texas.gov/d/9cir-efmm
+TX,0806799092,TAXCORE AGENCY LIMITED LIABILITY COMPANY,LLC,CL (Texas limited liability company),True,TX,Active,2026-09-17,DALLAS,TX,75210,,,,,,https://data.texas.gov/d/9cir-efmm
+TX,0806799104,PERALES ELEMENTARY PARENT TEACHER ORGANIZATION,NONPROFIT,CN (Texas nonprofit corporation),True,TX,Active,2026-09-17,SAN ANTONIO,TX,78237,,,,,,https://data.texas.gov/d/9cir-efmm
+TX,0806662173,B.I. HOMES LLC,LLC,CL (Texas limited liability company),True,TX,Active,2026-09-18,SAN ANTONIO,TX,78258,,,,,,https://data.texas.gov/d/9cir-efmm
+TX,0806748643,LOZANO FAMILY HOLDINGS LLC,LLC,CL (Texas limited liability company),True,TX,Active,2026-09-18,CARROLLTON,TX,75006,,,,,,https://data.texas.gov/d/9cir-efmm
+TX,0806753722,OWN LANE CARRIER LLC,LLC,CL (Texas limited liability company),True,TX,Active,2026-09-18,SUNSET,TX,76270,,,,,,https://data.texas.gov/d/9cir-efmm
+TX,0806789142,"ASTOR INSURANCE AGENCY, LLC",LLC,CL (Texas limited liability company),True,TX,Active,2026-09-18,KATY,TX,77493,,,,,,https://data.texas.gov/d/9cir-efmm
+TX,0806789649,ORA NAILS & SPA LLC,LLC,CL (Texas limited liability company),True,TX,Active,2026-09-18,WYLIE,TX,75098,,,,,,https://data.texas.gov/d/9cir-efmm
+TX,0806792559,DURAHARDWARE LLC,LLC,CL (Texas limited liability company),True,TX,Active,2026-09-18,HOUSTON,TX,77072,,,,,,https://data.texas.gov/d/9cir-efmm
+TX,0806796006,"MORTGAGE MAKERS, LLC",LLC,CI (Foreign limited liability company),False,,Active,2026-09-18,LEAGUE CITY,TX,77573,,,,,,https://data.texas.gov/d/9cir-efmm
+TX,0806796024,PADS LLC PROFESSIONAL ATTENTIVE DETAILING SERVICES,LLC,CL (Texas limited liability company),True,TX,Active,2026-09-18,CYPRESS,TX,77433,,,,,,https://data.texas.gov/d/9cir-efmm
+TX,0806797221,PINNOCK SERVICES LLC,LLC,CL (Texas limited liability company),True,TX,Active,2026-09-18,ABILENE,TX,79605,,,,,,https://data.texas.gov/d/9cir-efmm
+TX,0806798386,SAS WIRELESS LLC,LLC,CL (Texas limited liability company),True,TX,Active,2026-09-18,ARLINGTON,TX,76005,,,,,,https://data.texas.gov/d/9cir-efmm
+TX,0806799170,RANGE & CURRENT LLC,LLC,CL (Texas limited liability company),True,TX,Active,2026-09-18,GOODRICH,TX,77335,,,,,,https://data.texas.gov/d/9cir-efmm
+TX,0806799389,MANOS QUE SANAN BY ANGELA FOUNDATION,NONPROFIT,CN (Texas nonprofit corporation),True,TX,Active,2026-09-18,PORTER,TX,77365,,,,,,https://data.texas.gov/d/9cir-efmm
+TX,0806799525,CARLA SHOPS LLC,LLC,CL (Texas limited liability company),True,TX,Active,2026-09-18,DALLAS,TX,75208,,,,,,https://data.texas.gov/d/9cir-efmm
+TX,0806799551,RADIANCE WELLNESS LLC,LLC,CL (Texas limited liability company),True,TX,Active,2026-09-18,EDINBURG,TX,78541,,,,,,https://data.texas.gov/d/9cir-efmm
+TX,0806799591,"GROUP G INVESTMENTS, LLC",LLC,CL (Texas limited liability company),True,TX,Active,2026-09-18,MAGNOLIA,TX,77354,,531110,,,,https://data.texas.gov/d/9cir-efmm
+TX,0806799615,BVK RESEARCH & BEAUTY WELLNESS LLC,LLC,CL (Texas limited liability company),True,TX,Active,2026-09-18,ARLINGTON,TX,76001,,,,,,https://data.texas.gov/d/9cir-efmm
+TX,0806799714,BDF DANCE LLC,LLC,CI (Foreign limited liability company),False,,Active,2026-09-18,WAXAHACHIE,TX,75165,,,,,,https://data.texas.gov/d/9cir-efmm
+TX,0806800047,"C ROBINSON ASSOCIATES, INC.",CORPORATION,CF (Foreign profit corporation),False,,Active,2026-09-18,AUSTIN,TX,78731,,,,,,https://data.texas.gov/d/9cir-efmm
+TX,0806800319,IRONHORSE TRANSPORTERS LLC,LLC,CL (Texas limited liability company),True,TX,Active,2026-09-18,ODESSA,TX,79762,,,,,,https://data.texas.gov/d/9cir-efmm
+TX,0806800553,DIWA GLOBAL LLC,LLC,CL (Texas limited liability company),True,TX,Active,2026-09-18,LITTLE ELM,TX,75068,,,,,,https://data.texas.gov/d/9cir-efmm
+TX,0806800579,D CHAAR GROUP LLC,LLC,CL (Texas limited liability company),True,TX,Active,2026-09-18,HOUSTON,TX,77057,,,,,,https://data.texas.gov/d/9cir-efmm
+TX,0806800598,"ONE TO MANY OPERATIONS, LLC",LLC,CL (Texas limited liability company),True,TX,Active,2026-09-18,DALLAS,TX,75208,,,,,,https://data.texas.gov/d/9cir-efmm
+TX,0806800618,PMZ HOLDING LLC,LLC,CL (Texas limited liability company),True,TX,Active,2026-09-18,DALLAS,TX,75247,,,,,,https://data.texas.gov/d/9cir-efmm
+TX,0806800644,TEXAS WATERWORKS LLC,LLC,CL (Texas limited liability company),True,TX,Active,2026-09-18,CYPRESS,TX,77433,,,,,,https://data.texas.gov/d/9cir-efmm
+TX,0806800682,346 FLEET CO. LLC,LLC,CL (Texas limited liability company),True,TX,Active,2026-09-18,RICHMOND,TX,77407,,,,,,https://data.texas.gov/d/9cir-efmm
+TX,0806800757,MH PREMIER LOGISTICS LLC,LLC,CL (Texas limited liability company),True,TX,Active,2026-09-18,HOUSTON,TX,77019,,,,,,https://data.texas.gov/d/9cir-efmm
+TX,0806800765,FB MOBILE REPAIR LLC,LLC,CL (Texas limited liability company),True,TX,Active,2026-09-18,DALLAS,TX,75201,,811111,,,,https://data.texas.gov/d/9cir-efmm
+TX,0806800779,STARZ MEDICAL PROFESSIONALS PLLC,LLC,CL (Texas limited liability company),True,TX,Active,2026-09-18,BROOKSHIRE,TX,77423,,,,,,https://data.texas.gov/d/9cir-efmm
+TX,0806800783,MERIDIEN ENERGY PARTNERS LLC,LLC,CL (Texas limited liability company),True,TX,Active,2026-09-18,HOUSTON,TX,77069,,,,,,https://data.texas.gov/d/9cir-efmm
+TX,0806756895,GHARIAL LLC,LLC,CL (Texas limited liability company),True,TX,Active,2026-09-19,AUSTIN,TX,78704,,,,,,https://data.texas.gov/d/9cir-efmm
+TX,0806788770,"WAYPOINT RIDES, LLC",LLC,CL (Texas limited liability company),True,TX,Active,2026-09-19,LEWISVILLE,TX,75067,,,,,,https://data.texas.gov/d/9cir-efmm
+TX,0806789135,"LAKE HOUSTON CONTRACTORS, LLC",LLC,CL (Texas limited liability company),True,TX,Active,2026-09-19,HOUSTON,TX,77044,,,,,,https://data.texas.gov/d/9cir-efmm
+TX,0806794041,LLK SUBTERRIO LLC,LLC,CL (Texas limited liability company),True,TX,Active,2026-09-19,KATY,TX,77494,,,,,,https://data.texas.gov/d/9cir-efmm
+TX,0806799691,WANDERING WATERFALL CREATIONS LLC,LLC,CL (Texas limited liability company),True,TX,Active,2026-09-19,WEATHERFORD,TX,76087,,,,,,https://data.texas.gov/d/9cir-efmm
+TX,0806800740,THE BEAN PATCH TRANSITIONAL HOME,NONPROFIT,CN (Texas nonprofit corporation),True,TX,Active,2026-09-19,FORNEY,TX,75126,,,,,,https://data.texas.gov/d/9cir-efmm
+TX,0806801207,JMC FREGHT INTERNATIONAL LLC,LLC,CL (Texas limited liability company),True,TX,Active,2026-09-19,MAGNOLIA,TX,77354,,,,,,https://data.texas.gov/d/9cir-efmm
+TX,0806801575,XXI ESTHETICS LLC,LLC,CL (Texas limited liability company),True,TX,Active,2026-09-19,HOUSTON,TX,77026,,,,,,https://data.texas.gov/d/9cir-efmm
+TX,0806802185,"MORALES CARGO SVC, LLC",LLC,CL (Texas limited liability company),True,TX,Active,2026-09-19,LAREDO,TX,78046,,,,,,https://data.texas.gov/d/9cir-efmm
+TX,0806802453,"THE VILLAGE STEWARD, LLC",LLC,CL (Texas limited liability company),True,TX,Active,2026-09-19,SAN ANTONIO,TX,78232,,,,,,https://data.texas.gov/d/9cir-efmm
+TX,0806802569,LA TEJANA LATIN MARKET LLC,LLC,CL (Texas limited liability company),True,TX,Active,2026-09-19,CLEVELAND,TX,77327,,,,,,https://data.texas.gov/d/9cir-efmm
+TX,0806802600,"KELLEY SCIENCE FORWARD, LLC",LLC,CL (Texas limited liability company),True,TX,Active,2026-09-19,LAREDO,TX,78045,,,,,,https://data.texas.gov/d/9cir-efmm
+TX,0806802860,ZILKER AIR LLC,LLC,CL (Texas limited liability company),True,TX,Active,2026-09-19,AUSTIN,TX,78744,,,,,,https://data.texas.gov/d/9cir-efmm
+TX,0806802869,GV HEAVY HAULING LLC,LLC,CL (Texas limited liability company),True,TX,Active,2026-09-19,CYPRESS,TX,77433,,,,,,https://data.texas.gov/d/9cir-efmm
+TX,0806802883,HAULIN STEADY TRANSPORTING LLC,LLC,CL (Texas limited liability company),True,TX,Active,2026-09-19,HOUSTON,TX,77076,,,,,,https://data.texas.gov/d/9cir-efmm
+TX,0806802900,BAGARE GROUP LLC,LLC,CL (Texas limited liability company),True,TX,Active,2026-09-19,AUSTIN,TX,78746,,,,,,https://data.texas.gov/d/9cir-efmm
+TX,0806802918,"ALPHA PERFORMANCE INSURANCE CORP, LLC",LLC,CL (Texas limited liability company),True,TX,Active,2026-09-19,FORT WORTH,TX,76108,,,,,,https://data.texas.gov/d/9cir-efmm
+TX,0806802952,"IRONPOINT GROUP, LLC",LLC,CL (Texas limited liability company),True,TX,Active,2026-09-19,ABILENE,TX,79606,,,,,,https://data.texas.gov/d/9cir-efmm
+TX,0806802984,DIWAN 14655 SELMA LLC,LLC,CL (Texas limited liability company),True,TX,Active,2026-09-19,HOUSTON,TX,77025,,,,,,https://data.texas.gov/d/9cir-efmm
+TX,0806802989,CUTBACK LAWNCARE LLC,LLC,CL (Texas limited liability company),True,TX,Active,2026-09-19,KATY,TX,77450,,,,,,https://data.texas.gov/d/9cir-efmm
+TX,0806802992,SALMA LLC,LLC,CL (Texas limited liability company),True,TX,Active,2026-09-19,HOUSTON,TX,77054,,,,,,https://data.texas.gov/d/9cir-efmm
+TX,0806803001,360 TECH LABS LLC,LLC,CL (Texas limited liability company),True,TX,Active,2026-09-19,AUSTIN,TX,78731,,,,,,https://data.texas.gov/d/9cir-efmm
+TX,0806803006,SEEDDIGITALS LLC,LLC,CL (Texas limited liability company),True,TX,Active,2026-09-19,AUSTIN,TX,78731,,,,,,https://data.texas.gov/d/9cir-efmm
+TX,0806803017,DESTINY STAR TRUCKING LLC,LLC,CL (Texas limited liability company),True,TX,Active,2026-09-19,DEER PARK,TX,77536,,,,,,https://data.texas.gov/d/9cir-efmm
+TX,0806803055,LA ZUIZA TRANSPORT LLC,LLC,CL (Texas limited liability company),True,TX,Active,2026-09-19,MISSION,TX,78574,,,,,,https://data.texas.gov/d/9cir-efmm
+TX,0806803061,"SEND A DRONE, LLC",LLC,CL (Texas limited liability company),True,TX,Active,2026-09-19,LEWISVILLE,TX,75056,,,,,,https://data.texas.gov/d/9cir-efmm
+TX,0806803064,D & R REAL ESTATE GROUP LLC,LLC,CL (Texas limited liability company),True,TX,Active,2026-09-19,DALLAS,TX,75230,,,,,,https://data.texas.gov/d/9cir-efmm
+TX,0806803072,"DISHA CONSULTING SERVICES, LLC",LLC,CL (Texas limited liability company),True,TX,Active,2026-09-19,SAN ANTONIO,TX,78249,,,,,,https://data.texas.gov/d/9cir-efmm
+TX,0806803078,TIPPYTECH TECHNOLOGIES LLC,LLC,CL (Texas limited liability company),True,TX,Active,2026-09-19,ROYSE CITY,TX,75189,,,,,,https://data.texas.gov/d/9cir-efmm
+TX,0806702474,PGO WERNER LLC,LLC,CL (Texas limited liability company),True,TX,Active,2026-09-20,HOUSTON,TX,77056,,,,,,https://data.texas.gov/d/9cir-efmm
+TX,0806702490,ALDINE 2026 LLC,LLC,CL (Texas limited liability company),True,TX,Active,2026-09-20,HOUSTON,TX,77056,,,,,,https://data.texas.gov/d/9cir-efmm
+TX,0806706821,"GLOW COLLECTIVELY, PLLC",LLC,CL (Texas limited liability company),True,TX,Active,2026-09-20,RICHMOND,TX,77407,,,,,,https://data.texas.gov/d/9cir-efmm
+TX,0806757670,FLEUR D'HEME LLC,LLC,CL (Texas limited liability company),True,TX,Active,2026-09-20,THE WOODLANDS,TX,77382,,,,,,https://data.texas.gov/d/9cir-efmm
+TX,0806757795,DESIGN COLLECTIVE INTERIORS LC,LLC,CL (Texas limited liability company),True,TX,Active,2026-09-20,CELINA,TX,75009,,,,,,https://data.texas.gov/d/9cir-efmm
+TX,0806758280,CREATIVE ALCHEMY ENTERTAINMENT LLC,LLC,CL (Texas limited liability company),True,TX,Active,2026-09-20,DALLAS,TX,75217,,711510,,,,https://data.texas.gov/d/9cir-efmm
+TX,0806758844,BB BOY TRUCKING LLC,LLC,CL (Texas limited liability company),True,TX,Active,2026-09-20,DALLAS,TX,75215,,,,,,https://data.texas.gov/d/9cir-efmm
+TX,0806758864,SRHP COLLECTIVE LLC,LLC,CL (Texas limited liability company),True,TX,Active,2026-09-20,WYLIE,TX,75098,,,,,,https://data.texas.gov/d/9cir-efmm
+TX,0806777134,BRANDO BUILDS BRANDS LLC,LLC,CL (Texas limited liability company),True,TX,Active,2026-09-20,SAN ANTONIO,TX,78210,,541613,,,,https://data.texas.gov/d/9cir-efmm
+TX,0806779461,LAMANDO LEGACY HOMES LLC,LLC,CL (Texas limited liability company),True,TX,Active,2026-09-20,GRANBURY,TX,76048,,,,,,https://data.texas.gov/d/9cir-efmm
+TX,0806790521,L&L RESIDENCY LLC,LLC,CL (Texas limited liability company),True,TX,Active,2026-09-20,LUFKIN,TX,75904,,,,,,https://data.texas.gov/d/9cir-efmm
+TX,0806791200,"JACKIE'S HOME CARE SERVICES, LIMITED LIABILITY COM",LLC,CL (Texas limited liability company),True,TX,Active,2026-09-20,GEORGETOWN,TX,78633,,,,,,https://data.texas.gov/d/9cir-efmm
+TX,0806792054,OMNI PROPERTY CLEANING SOLUTIONS LLC,LLC,CL (Texas limited liability company),True,TX,Active,2026-09-20,ROWLETT,TX,75088,,,,,,https://data.texas.gov/d/9cir-efmm
+TX,0806793870,NRV DEVELOPMENT GROUP LLC,LLC,CL (Texas limited liability company),True,TX,Active,2026-09-20,ROSENBERG,TX,77471,,,,,,https://data.texas.gov/d/9cir-efmm
+TX,0806796627,FA NUTRITION AND WELLNESS LLC,LLC,CL (Texas limited liability company),True,TX,Active,2026-09-20,FRISCO,TX,75033,,,,,,https://data.texas.gov/d/9cir-efmm
+TX,0806797099,"CRUE SOLUTIONS, LLC",LLC,CL (Texas limited liability company),True,TX,Active,2026-09-20,KRUM,TX,76249,,,,,,https://data.texas.gov/d/9cir-efmm
+TX,0806797420,TRINITY INSURANCE STRATEGIES LLC,LLC,CL (Texas limited liability company),True,TX,Active,2026-09-20,FRISCO,TX,75034,,,,,,https://data.texas.gov/d/9cir-efmm
+TX,0806798164,THE RENEE SMAJSTRLA FOUNDATION,NONPROFIT,CN (Texas nonprofit corporation),True,TX,Active,2026-09-20,INGRAM,TX,78025,,,,,,https://data.texas.gov/d/9cir-efmm
+TX,0806798511,KHAISH MEMORIAL HEALTH GROUP LLC,LLC,CL (Texas limited liability company),True,TX,Active,2026-09-20,RICHMOND,TX,77469,,,,,,https://data.texas.gov/d/9cir-efmm
+TX,0806798615,"TIMBERCREST HOLDINGS, LLC",LLC,CL (Texas limited liability company),True,TX,Active,2026-09-20,DESOTO,TX,75115,,,,,,https://data.texas.gov/d/9cir-efmm
+TX,0806798715,NEW HORIZONS WELLNESS AND SUPPORT SERVICES LLC,LLC,CL (Texas limited liability company),True,TX,Active,2026-09-20,ALLEN,TX,75013,,,,,,https://data.texas.gov/d/9cir-efmm
+TX,0806798786,MOABB HOME OF THE CARED FOR LLC,LLC,CL (Texas limited liability company),True,TX,Active,2026-09-20,DENTON,TX,76208,,,,,,https://data.texas.gov/d/9cir-efmm
+TX,0806798885,ALIEN AND ASSOCIATES LLC,LLC,CL (Texas limited liability company),True,TX,Active,2026-09-20,ABILENE,TX,79606,,,,,,https://data.texas.gov/d/9cir-efmm
+TX,0806799708,SULLY FREIGHT LLC,LLC,CL (Texas limited liability company),True,TX,Active,2026-09-20,LAVON,TX,75166,,484121,,,,https://data.texas.gov/d/9cir-efmm
+TX,0806801545,AJ'S GLASS & GLAZING 2.0 LLC,LLC,CL (Texas limited liability company),True,TX,Active,2026-09-20,MESQUITE,TX,75150,,,,,,https://data.texas.gov/d/9cir-efmm
+TX,0806801567,A&B AMOUR SERVICES LLC,LLC,CL (Texas limited liability company),True,TX,Active,2026-09-20,CYPRESS,TX,77433,,,,,,https://data.texas.gov/d/9cir-efmm

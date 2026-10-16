@@ -1,0 +1,201 @@
+state,entity_id,entity_name,entity_type,entity_type_raw,domestic,jurisdiction_of_formation,status,formation_date,principal_city,principal_state,principal_zip,county,naics,naics_description,registered_agent_organization,record_url,source_dataset_url
+CT,3491684,"Venerated Capital, LLC",LLC,LLC,False,DELAWARE,Active,2026-09-14,Darien,CT,06820,,523940,Portfolio Management and Investment Advice,,,https://data.ct.gov/d/n7gp-d28j
+CT,3507953,"Power Delivery Alliance, LLC",LLC,LLC,False,NORTH CAROLINA,Active,2026-09-14,Norman,OK,73072-3864,,237130,Power and Communication Line and Related Structures Construction,,,https://data.ct.gov/d/n7gp-d28j
+CT,3508241,Aunties All-Occasion Rentals & Services L.L.C.,LLC,LLC,True,,Active,2026-09-14,Hartford,CT,06112-2129,,532289,All Other Consumer Goods Rental,,,https://data.ct.gov/d/n7gp-d28j
+CT,3510609,YY 370 Walnut Street LLC,LLC,LLC,False,NEW YORK,Active,2026-09-14,Brooklyn,NY,11204-1482,,531190,Lessors of Other Real Estate Property,,,https://data.ct.gov/d/n7gp-d28j
+CT,3512671,Libre Retirement LLC,LLC,LLC,True,Connecticut,Active,2026-09-14,Glastonbury,CT,06033,,523999,Miscellaneous Financial Investment Activities,,,https://data.ct.gov/d/n7gp-d28j
+CT,3512740,Iron Eagle General Services LLC,LLC,LLC,True,Connecticut,Active,2026-09-14,New Fairfield,CT,06812-2732,,236118,Residential Remodelers,,,https://data.ct.gov/d/n7gp-d28j
+CT,3513307,Aresco Travel LLC,LLC,LLC,True,Connecticut,Active,2026-09-14,Middletown,CT,06457-1904,,561510,Travel Agencies,,,https://data.ct.gov/d/n7gp-d28j
+CT,3513899,"Optum Pharmacy 701, LLC",LLC,LLC,False,DELAWARE,Active,2026-09-14,Eden Prairie,MN,55344,,524292,Pharmacy Benefit Management and Other Third Party Administration of Insurance and Pension Funds,,,https://data.ct.gov/d/n7gp-d28j
+CT,3514131,43 Woodruff LLC,LLC,LLC,False,NEW YORK,Active,2026-09-14,SLEEPY HOLLOW,NY,10591-2356,,531311,Residential Property Managers,,,https://data.ct.gov/d/n7gp-d28j
+CT,3514289,"3T MCD, LLC",LLC,LLC,True,Connecticut,Active,2026-09-14,Naugatuck,CT,06770,,531190,Lessors of Other Real Estate Property,,,https://data.ct.gov/d/n7gp-d28j
+CT,3514318,"3T LQOC, LLC",LLC,LLC,True,Connecticut,Active,2026-09-14,Naugatuck,CT,06770,,713990,All Other Amusement and Recreation Industries,,,https://data.ct.gov/d/n7gp-d28j
+CT,3514696,597 West Main LLC,LLC,LLC,True,Connecticut,Active,2026-09-14,Farmington,CT,06032-1623,,531120,Lessors of Nonresidential Buildings except Miniwarehouses,,,https://data.ct.gov/d/n7gp-d28j
+CT,3514730,EversRemodeling LLC,LLC,LLC,True,Connecticut,Active,2026-09-14,Stamford,CT,06902-6135,,236118,Residential Remodelers,,,https://data.ct.gov/d/n7gp-d28j
+CT,3514990,SILKAI CORPORATION,CORPORATION,Stock,True,Connecticut,Active,2026-09-14,MILFORD,CT,06461,,424990,Other Miscellaneous Nondurable Goods Merchant Wholesalers,,,https://data.ct.gov/d/n7gp-d28j
+CT,3515158,Quick Pick Rentals LLC,LLC,LLC,True,Connecticut,Active,2026-09-14,Norwalk,CT,06851-4407,,532111,Passenger Car Rental,,,https://data.ct.gov/d/n7gp-d28j
+CT,3515174,Karolina Landscaping LLC,LLC,LLC,True,Connecticut,Active,2026-09-14,ANSONIA,CT,06401,,561730,Landscaping Services,,,https://data.ct.gov/d/n7gp-d28j
+CT,3515499,RLJ Electrical Solutions LLC,LLC,LLC,True,Connecticut,Active,2026-09-14,Westport,CT,06880,,238210,Electrical Contractors and Other Wiring Installation Contractors,,,https://data.ct.gov/d/n7gp-d28j
+CT,3515770,"Roberto Travieso, MD, PLLC",LLC,LLC,True,Connecticut,Active,2026-09-14,Glastonbury,CT,06033,,621111,Offices of Physicians except Mental Health Specialists,,,https://data.ct.gov/d/n7gp-d28j
+CT,3515771,Pa� House Indoor Dog park LLC,LLC,LLC,True,Connecticut,Active,2026-09-14,Quaker Hill,CT,06375-1504,,459910,Pet and Pet Supplies Retailers,,,https://data.ct.gov/d/n7gp-d28j
+CT,3515772,FIELD DAY LIVE LLC,LLC,LLC,False,WYOMING,Active,2026-09-14,STAMFORD,CT,06903,,711320,"Promoters of Performing Arts, Sports, and Similar Events without Facilities",,,https://data.ct.gov/d/n7gp-d28j
+CT,3515775,Root and Cellar Estate LLC,LLC,LLC,True,Connecticut,Active,2026-09-14,Pleasant Valley,NY,12569-7021,,445298,All Other Specialty Food Retailers,,,https://data.ct.gov/d/n7gp-d28j
+CT,3515779,Brezi LLC,LLC,LLC,True,Connecticut,Active,2026-09-14,Bridgeport,CT,06606-1253,,459999,All Other Miscellaneous Retailers,,,https://data.ct.gov/d/n7gp-d28j
+CT,3515788,AlphaCore Holdings LLC,LLC,LLC,True,Connecticut,Active,2026-09-14,Manchester,CT,06040-5241,,541219,Other Accounting Services,,,https://data.ct.gov/d/n7gp-d28j
+CT,3515795,"Castle Courier, LLC",LLC,LLC,True,Connecticut,Active,2026-09-14,GLASTONBURY,CT,06033,,492110,Couriers and Express Delivery Services,,,https://data.ct.gov/d/n7gp-d28j
+CT,3515798,Heirloom Flame Vintage Candles LLC,LLC,LLC,True,Connecticut,Active,2026-09-14,Beacon Falls,CT,06403-1151,,459999,All Other Miscellaneous Retailers,,,https://data.ct.gov/d/n7gp-d28j
+CT,3515799,Lindys Enterprise LLC,LLC,LLC,True,Connecticut,Active,2026-09-14,Glastonbury,CT,06033,,541613,Marketing Consulting Services,,,https://data.ct.gov/d/n7gp-d28j
+CT,3515801,12 First St LLC,LLC,LLC,True,Connecticut,Active,2026-09-14,Norwalk,CT,06855,,531110,Lessors of Residential Buildings and Dwellings,,,https://data.ct.gov/d/n7gp-d28j
+CT,3515804,MTV Manning Road Holdings LLC,LLC,LLC,True,Connecticut,Active,2026-09-14,Glastonbury,CT,06033-4617,,531110,Lessors of Residential Buildings and Dwellings,,,https://data.ct.gov/d/n7gp-d28j
+CT,3515805,Connecticut Quick Lube LLC,LLC,LLC,True,Connecticut,Active,2026-09-14,Tolland,CT,06084,,811111,General Automotive Repair,,,https://data.ct.gov/d/n7gp-d28j
+CT,3472420,"The Sponsorship Intelligence Group, Inc.",CORPORATION,Stock,False,DELAWARE,Active,2026-09-15,Austin,TX,78717-3951,,518210,"Computing Infrastructure Providers, Data Processing, Web Hosting, and Related Services",,,https://data.ct.gov/d/n7gp-d28j
+CT,3492605,"Advantage Healthcare Holdings, LLC",LLC,LLC,False,Delaware,Active,2026-09-15,Stamford,CT,06904,,541611,Administrative Management and General Management Consulting Services,,,https://data.ct.gov/d/n7gp-d28j
+CT,3500846,Just Pop Sta LLC,LLC,LLC,True,,Active,2026-09-15,Stamford,CT,06905-1601,,722515,Snack and Nonalcoholic Beverage Bars,,,https://data.ct.gov/d/n7gp-d28j
+CT,3506429,The Priv� Nanny Co L.L.C.,LLC,LLC,True,,Active,2026-09-15,Bridgeport,CT,06606-5421,,561311,Employment Placement Agencies,,,https://data.ct.gov/d/n7gp-d28j
+CT,3510655,Desert Point Valley LLC,LLC,LLC,False,DELAWARE,Active,2026-09-15,Westport,CT,06880-3714,,237210,Land Subdivision,,,https://data.ct.gov/d/n7gp-d28j
+CT,3510692,"Allot, Inc.",CORPORATION,Stock,False,DELAWARE,Active,2026-09-15,Arlington,VA,22205,,541511,Custom Computer Programming Services,,,https://data.ct.gov/d/n7gp-d28j
+CT,3512607,LCS Better Living LLC,LLC,LLC,True,Connecticut,Active,2026-09-15,Glastonbury,CT,06033,,531390,Other Activities Related to Real Estate,,,https://data.ct.gov/d/n7gp-d28j
+CT,3512928,E2G Enterprises LLC,LLC,LLC,True,Connecticut,Active,2026-09-15,Hamden,CT,06517,,236220,Commercial and Institutional Building Construction,,,https://data.ct.gov/d/n7gp-d28j
+CT,3513510,Housecraft Inc,CORPORATION,Stock,False,NEW YORK,Active,2026-09-15,Nyack,NY,10960-4125,,236118,Residential Remodelers,,,https://data.ct.gov/d/n7gp-d28j
+CT,3514705,"Crescent Distributions NC, LLC",LLC,LLC,False,NORTH CAROLINA,Active,2026-09-15,New Orleans,LA,70130-5629,,311930,Flavoring Syrup and Concentrate Manufacturing,,,https://data.ct.gov/d/n7gp-d28j
+CT,3514760,"MASSIVE COMMERCE USA, INC.",CORPORATION,Stock,False,DELAWARE,Active,2026-09-15,Las Vegas,NV,89128-8358,,522320,"Financial Transactions Processing, Reserve, and Clearinghouse Activities",,,https://data.ct.gov/d/n7gp-d28j
+CT,3515090,Chouvi Bloom LLC,LLC,LLC,True,Connecticut,Active,2026-09-15,Glastonbury,CT,06033,,456199,All Other Health and Personal Care Retailers,,,https://data.ct.gov/d/n7gp-d28j
+CT,3515369,RehabLog LLC,LLC,LLC,True,Connecticut,Active,2026-09-15,Danbury,CT,06810,,513210,Software Publishers,,,https://data.ct.gov/d/n7gp-d28j
+CT,3515660,Poise Biosciences LLC,LLC,LLC,True,Connecticut,Active,2026-09-15,West Hartford,CT,06107,,459999,All Other Miscellaneous Retailers,,,https://data.ct.gov/d/n7gp-d28j
+CT,3516133,Dombek Equipment Rental LLP,PARTNERSHIP,LLP,True,Connecticut,Active,2026-09-15,Ellington,CT,06029-2621,,532412,"Construction, Mining, and Forestry Machinery and Equipment Rental and Leasing",,,https://data.ct.gov/d/n7gp-d28j
+CT,3516221,Oliphant Ventures Limited Liability Company,LLC,LLC,True,Connecticut,Active,2026-09-15,Norwalk,CT,06854,,531110,Lessors of Residential Buildings and Dwellings,,,https://data.ct.gov/d/n7gp-d28j
+CT,3516406,DNS AUTO SOLUTIONS LLC,LLC,LLC,True,Connecticut,Active,2026-09-15,Norwalk,CT,06851,,811198,All Other Automotive Repair and Maintenance,,,https://data.ct.gov/d/n7gp-d28j
+CT,3516552,Major Entertainment LLC,LLC,LLC,True,Connecticut,Active,2026-09-15,Hartford,CT,06120-2757,,711410,"Agents and Managers for Artists, Athletes, Entertainers, and Other Public Figures",,,https://data.ct.gov/d/n7gp-d28j
+CT,3516556,My Trad Life LLC,LLC,LLC,True,Connecticut,Active,2026-09-15,Ellington,CT,06029,,541512,Computer Systems Design Services,,,https://data.ct.gov/d/n7gp-d28j
+CT,3516563,Guardian Alarm LLC,LLC,LLC,True,Connecticut,Active,2026-09-15,Dayville,CT,06241,,238390,Other Building Finishing Contractors,,,https://data.ct.gov/d/n7gp-d28j
+CT,3516565,"LEDGE, INC.",CORPORATION,Stock,False,DELAWARE,Active,2026-09-15,NEW YORK,NY,10017,,541519,Other Computer Related Services,,,https://data.ct.gov/d/n7gp-d28j
+CT,3516573,Brady Advisory LLC,LLC,LLC,False,NEW YORK,Active,2026-09-15,Valhalla,NY,10595,,624120,Services for the Elderly and Persons with Disabilities,,,https://data.ct.gov/d/n7gp-d28j
+CT,3516577,Pulaski Properties LLC,LLC,LLC,True,Connecticut,Active,2026-09-15,Berlin,CT,06037-1803,,236118,Residential Remodelers,,,https://data.ct.gov/d/n7gp-d28j
+CT,3516581,Real Encounter Counseling PLLC,LLC,LLC,True,Connecticut,Active,2026-09-15,Glastonbury,CT,06033-4617,,621330,Offices of Mental Health Practitioners except Physicians,,,https://data.ct.gov/d/n7gp-d28j
+CT,3516583,17 Congress Ave LLC,LLC,LLC,True,Connecticut,Active,2026-09-15,Glastonbury,CT,06033-4617,,531110,Lessors of Residential Buildings and Dwellings,,,https://data.ct.gov/d/n7gp-d28j
+CT,3516584,SR REPAIR CONSTRUCTION LLC,LLC,LLC,True,Connecticut,Active,2026-09-15,New London,CT,06320-5757,,236118,Residential Remodelers,,,https://data.ct.gov/d/n7gp-d28j
+CT,3516588,Barrel House Baseball LLC,LLC,LLC,True,Connecticut,Active,2026-09-15,Avon,CT,06001,,611620,Sports and Recreation Instruction,,,https://data.ct.gov/d/n7gp-d28j
+CT,3516595,VitalRoute Solutions LLC,LLC,LLC,True,Connecticut,Active,2026-09-15,Stratford,CT,06614-4753,,492110,Couriers and Express Delivery Services,,,https://data.ct.gov/d/n7gp-d28j
+CT,3516607,The Sauce Guy LLC,LLC,LLC,True,Connecticut,Active,2026-09-15,Northfield,CT,06778-2500,,311941,"Mayonnaise, Dressing, and Other Prepared Sauce Manufacturing",,,https://data.ct.gov/d/n7gp-d28j
+CT,0527728,3001 Summer Street LLC,LLC,LLC,True,,Active,2026-09-16,STAMFORD,CT,06901,,,,,,https://data.ct.gov/d/n7gp-d28j
+CT,3393727,Connecticut Long Island Initiative Ltd.,NONPROFIT,Non-Stock,True,,Active,2026-09-16,Easton,CT,06612,,,,,,https://data.ct.gov/d/n7gp-d28j
+CT,3506879,Tompkins Restaurant Consulting LLC,LLC,LLC,True,,Active,2026-09-16,Brookfield,CT,06804-2663,,722511,Full-Service Restaurants,,,https://data.ct.gov/d/n7gp-d28j
+CT,3510066,Fundgate LLC,LLC,LLC,False,NEW YORK,Active,2026-09-16,Brooklyn,NY,11229,,522299,"International, Secondary Market, and All Other Nondepository Credit Intermediation",,,https://data.ct.gov/d/n7gp-d28j
+CT,3511125,Winn Financial LLC,LLC,LLC,True,Connecticut,Active,2026-09-16,Glastonbury,CT,06033-2620,,523940,Portfolio Management and Investment Advice,,,https://data.ct.gov/d/n7gp-d28j
+CT,3513266,Spectrum Exteriors Inc,CORPORATION,Stock,False,NEW YORK,Active,2026-09-16,Levittown,NY,11756-2739,,238160,Roofing Contractors,,,https://data.ct.gov/d/n7gp-d28j
+CT,3514551,Croyance New Century Renovations LLC,LLC,LLC,False,NEW YORK,Active,2026-09-16,Bronx,NY,10460-3463,,236118,Residential Remodelers,,,https://data.ct.gov/d/n7gp-d28j
+CT,3516516,"ALSA Consulting, LLC",LLC,LLC,True,Connecticut,Active,2026-09-16,New Canaan,CT,06840-4205,,541611,Administrative Management and General Management Consulting Services,,,https://data.ct.gov/d/n7gp-d28j
+CT,3516652,The Bestie Nails CT LLC,LLC,LLC,True,Connecticut,Active,2026-09-16,Norwalk,CT,06855-1713,,812113,Nail Salons,,,https://data.ct.gov/d/n7gp-d28j
+CT,3516679,Horton Seller Inc,CORPORATION,Stock,False,DELAWARE,Active,2026-09-16,Canton,CT,06019,,238210,Electrical Contractors and Other Wiring Installation Contractors,,,https://data.ct.gov/d/n7gp-d28j
+CT,3516829,MT Group LLC,LLC,LLC,True,Connecticut,Active,2026-09-16,Guilford,CT,06437-2310,,722515,Snack and Nonalcoholic Beverage Bars,,,https://data.ct.gov/d/n7gp-d28j
+CT,3516992,"Ox Pasture, LLC",LLC,LLC,True,Connecticut,Active,2026-09-16,Madison,CT,06443-2824,,531190,Lessors of Other Real Estate Property,,,https://data.ct.gov/d/n7gp-d28j
+CT,3516996,D&K CONSTRUCTION LLC,LLC,LLC,True,Connecticut,Active,2026-09-16,New Haven,CT,06511-1142,,236118,Residential Remodelers,,,https://data.ct.gov/d/n7gp-d28j
+CT,3517179,Kara's Baby Gear Detailing LLC,LLC,LLC,True,Connecticut,Active,2026-09-16,Bristol,CT,06010-6874,,561740,Carpet and Upholstery Cleaning Services,,,https://data.ct.gov/d/n7gp-d28j
+CT,3517184,Orca Cap Lending LLC,LLC,LLC,True,Connecticut,Active,2026-09-16,Glastonbury,CT,06033,,522299,"International, Secondary Market, and All Other Nondepository Credit Intermediation",,,https://data.ct.gov/d/n7gp-d28j
+CT,3517185,Vex Funding LLC,LLC,LLC,True,Connecticut,Active,2026-09-16,Glastonbury,CT,06033,,522299,"International, Secondary Market, and All Other Nondepository Credit Intermediation",,,https://data.ct.gov/d/n7gp-d28j
+CT,3517189,Point26 Lending LLC,LLC,LLC,True,Connecticut,Active,2026-09-16,Glastonbury,CT,06033,,522299,"International, Secondary Market, and All Other Nondepository Credit Intermediation",,,https://data.ct.gov/d/n7gp-d28j
+CT,3517193,Shogun Lending LLC,LLC,LLC,True,Connecticut,Active,2026-09-16,Glastonbury,CT,06033,,522299,"International, Secondary Market, and All Other Nondepository Credit Intermediation",,,https://data.ct.gov/d/n7gp-d28j
+CT,3517196,Tackle Vault Archive LLC,LLC,LLC,True,Connecticut,Active,2026-09-16,Danielson,CT,06239-3505,,519290,Web Search Portals and All Other Information Services,,,https://data.ct.gov/d/n7gp-d28j
+CT,3517197,The Spot Supply NY LLC,LLC,LLC,True,Connecticut,Active,2026-09-16,Bristol,CT,06010,,458110,Clothing and Clothing Accessories Retailers,,,https://data.ct.gov/d/n7gp-d28j
+CT,3517199,Venus Dream Nails & Spa LLC,LLC,LLC,True,Connecticut,Active,2026-09-16,Rocky Hill,CT,06067-2313,,812113,Nail Salons,,,https://data.ct.gov/d/n7gp-d28j
+CT,3517202,Black Musk Society LLC,LLC,LLC,True,Connecticut,Active,2026-09-16,Bristol,CT,06010-5804,,459999,All Other Miscellaneous Retailers,,,https://data.ct.gov/d/n7gp-d28j
+CT,3517213,Hell Bent Mechanical LLC,LLC,LLC,True,Connecticut,Active,2026-09-16,Hebron,CT,06248,,811310,Commercial and Industrial Machinery and Equipment except Automotive and Electronic Repair and Maintenance,,,https://data.ct.gov/d/n7gp-d28j
+CT,3517221,S&C Transportation LLC,LLC,LLC,True,Connecticut,Active,2026-09-16,West Haven,CT,06516-4048,,484220,"Specialized Freight except Used Goods Trucking, Local",,,https://data.ct.gov/d/n7gp-d28j
+CT,3517222,"STONEHAM MOTOR CO., INC.",CORPORATION,Stock,False,MASSACHUSETTS,Active,2026-09-16,Glastonbury,CT,06033-4617,,441110,New Car Dealers,,,https://data.ct.gov/d/n7gp-d28j
+CT,3517223,Stratum Data Insights LLC,LLC,LLC,True,Connecticut,Active,2026-09-16,Danbury,CT,06810-5193,,541690,Other Scientific and Technical Consulting Services,,,https://data.ct.gov/d/n7gp-d28j
+CT,3517233,TRINITY FROZEN FOODS LLC,LLC,LLC,False,NORTH CAROLINA,Active,2026-09-16,Pembroke,NC,28372-8734,,311411,"Frozen Fruit, Juice, and Vegetable Manufacturing",,,https://data.ct.gov/d/n7gp-d28j
+CT,3517235,Bradford Transport LLC,LLC,LLC,True,Connecticut,Active,2026-09-16,West Hartford,CT,06105,,492110,Couriers and Express Delivery Services,,,https://data.ct.gov/d/n7gp-d28j
+CT,3517238,Krymps LLC,LLC,LLC,True,Connecticut,Active,2026-09-16,Canton,CT,06019,,458110,Clothing and Clothing Accessories Retailers,,,https://data.ct.gov/d/n7gp-d28j
+CT,3471802,Mula Design LLC,LLC,LLC,False,PENNSYLVANIA,Active,2026-09-17,York,PA,17401,,541310,Architectural Services,,,https://data.ct.gov/d/n7gp-d28j
+CT,3498268,"ABK Counseling & Wellness, LLC",LLC,LLC,False,MASSACHUSETTS,Active,2026-09-17,Boston,MA,02109-4211,,621330,Offices of Mental Health Practitioners except Physicians,,,https://data.ct.gov/d/n7gp-d28j
+CT,3500190,ProStripes7 LLC,LLC,LLC,True,,Active,2026-09-17,Union,CT,06076,,237310,"Highway, Street, and Bridge Construction",,,https://data.ct.gov/d/n7gp-d28j
+CT,3510146,Taably Ltd. Liability Co.,LLC,LLC,True,Connecticut,Active,2026-09-17,New Britain,CT,06053,,611710,Educational Support Services,,,https://data.ct.gov/d/n7gp-d28j
+CT,3510589,SML Services LLC,LLC,LLC,True,Connecticut,Active,2026-09-17,Brookfield,CT,06804,,238320,Painting and Wall Covering Contractors,,,https://data.ct.gov/d/n7gp-d28j
+CT,3512210,Express roadside assistance L.L.C.,LLC,LLC,True,Connecticut,Active,2026-09-17,Waterbury,CT,06704-4126,,488410,Motor Vehicle Towing,,,https://data.ct.gov/d/n7gp-d28j
+CT,3513403,"Saint George One, LLC",LLC,LLC,False,FLORIDA,Active,2026-09-17,Tampa,FL,33615,,456110,Pharmacies and Drug Retailers,,,https://data.ct.gov/d/n7gp-d28j
+CT,3513568,La Finca LLC,LLC,LLC,True,Connecticut,Active,2026-09-17,Durham,CT,06422-2006,,112410,Sheep Farming,,,https://data.ct.gov/d/n7gp-d28j
+CT,3513666,NM Electrical LLC,LLC,LLC,True,Connecticut,Active,2026-09-17,Windsor,CT,06095-2160,,238210,Electrical Contractors and Other Wiring Installation Contractors,,,https://data.ct.gov/d/n7gp-d28j
+CT,3513960,PDK Commercial Photographers Ltd,CORPORATION,Stock,False,NEW YORK,Active,2026-09-17,Irvington,NY,10533,,541922,Commercial Photography,,,https://data.ct.gov/d/n7gp-d28j
+CT,3514819,DEN MAX TRANSPORT LLC,LLC,LLC,False,NEW YORK,Active,2026-09-17,NEW HAVEN,CT,06519,,484110,"General Freight Trucking, Local",,,https://data.ct.gov/d/n7gp-d28j
+CT,3515360,Shoreline Mediation LLC,LLC,LLC,True,Connecticut,Active,2026-09-17,Milford,CT,06460-6648,,541110,Offices of Lawyers,,,https://data.ct.gov/d/n7gp-d28j
+CT,3516176,"Monroe BF BTS Retail, LLC",LLC,LLC,True,Connecticut,Active,2026-09-17,Lakewood,OH,44107-4299,,531390,Other Activities Related to Real Estate,,,https://data.ct.gov/d/n7gp-d28j
+CT,3517293,Revolution Contracting Group LLC,LLC,LLC,False,FLORIDA,Active,2026-09-17,Somers,CT,06071-1926,,238160,Roofing Contractors,,,https://data.ct.gov/d/n7gp-d28j
+CT,3517418,"Putnam Partners, LLC",LLC,LLC,False,DELAWARE,Active,2026-09-17,Bedford,NY,10506-1900,,531390,Other Activities Related to Real Estate,,,https://data.ct.gov/d/n7gp-d28j
+CT,3517601,Glimmers of Hope Therapy PLLC,LLC,LLC,True,Connecticut,Active,2026-09-17,Norwich,CT,06360-5806,,621330,Offices of Mental Health Practitioners except Physicians,,,https://data.ct.gov/d/n7gp-d28j
+CT,3517633,"Lumare Psychology, PLLC",LLC,LLC,True,Connecticut,Active,2026-09-17,West Hartford,CT,06107,,621330,Offices of Mental Health Practitioners except Physicians,,,https://data.ct.gov/d/n7gp-d28j
+CT,3517980,67 Read LLC,LLC,LLC,True,Connecticut,Active,2026-09-17,New Haven,CT,06511,,531110,Lessors of Residential Buildings and Dwellings,,,https://data.ct.gov/d/n7gp-d28j
+CT,3517984,M.F.T Limited Liability Company,LLC,LLC,True,Connecticut,Active,2026-09-17,Norwalk,CT,06854-4330,,516210,"Media Streaming Distribution Services, Social Networks, and Other Media Networks and Content Providers",,,https://data.ct.gov/d/n7gp-d28j
+CT,3517993,Bridge to Brighter Futures Inc.,NONPROFIT,Non-Stock,True,Connecticut,Active,2026-09-17,,,,,624190,Other Individual and Family Services,,,https://data.ct.gov/d/n7gp-d28j
+CT,3517999,NEXTKEY LOCKSMITH LLC,LLC,LLC,True,Connecticut,Active,2026-09-17,Plainville,CT,06062-2804,,561622,Locksmiths,,,https://data.ct.gov/d/n7gp-d28j
+CT,3518001,Studio E Hair PLLC,LLC,LLC,True,Connecticut,Active,2026-09-17,Glastonbury,CT,06033,,812112,Beauty Salons,,,https://data.ct.gov/d/n7gp-d28j
+CT,3518010,Optimal Tomorrow LLC,LLC,LLC,True,Connecticut,Active,2026-09-17,Watertown,CT,06795-3345,,541512,Computer Systems Design Services,,,https://data.ct.gov/d/n7gp-d28j
+CT,3518017,Holy Family Daycare LLC,LLC,LLC,True,Connecticut,Active,2026-09-17,New Haven,CT,06513,,624410,Child Care Services,,,https://data.ct.gov/d/n7gp-d28j
+CT,3518018,Steven Jack Counseling LLC,LLC,LLC,True,Connecticut,Active,2026-09-17,Killingworth,CT,06419,,624190,Other Individual and Family Services,,,https://data.ct.gov/d/n7gp-d28j
+CT,3518023,Art Luxe Country Properties LLC,LLC,LLC,False,NEW YORK,Active,2026-09-17,New York,NY,10022,,531110,Lessors of Residential Buildings and Dwellings,,,https://data.ct.gov/d/n7gp-d28j
+CT,3518026,Knowologies LLC,LLC,LLC,True,Connecticut,Active,2026-09-17,Waterbury,CT,06705,,513210,Software Publishers,,,https://data.ct.gov/d/n7gp-d28j
+CT,3518030,11 Dwight Court Holdings LLC,LLC,LLC,True,Connecticut,Active,2026-09-17,New Britain,CT,06051-2317,,531110,Lessors of Residential Buildings and Dwellings,,,https://data.ct.gov/d/n7gp-d28j
+CT,3518033,ACE CONTRACTORS LLC,LLC,LLC,True,Connecticut,Active,2026-09-17,Glastonbury,CT,06033-4617,,236118,Residential Remodelers,,,https://data.ct.gov/d/n7gp-d28j
+CT,3373804,Gifty Youth Corporation,NONPROFIT,Non-Stock,True,,Active,2026-09-18,,,,,813319,Other Social Advocacy Organizations,,,https://data.ct.gov/d/n7gp-d28j
+CT,3501054,WPC Real Estate Group LLC,LLC,LLC,True,,Active,2026-09-18,New Fairfield,CT,06812-4355,,531110,Lessors of Residential Buildings and Dwellings,,,https://data.ct.gov/d/n7gp-d28j
+CT,3507611,Blackthorne LLC,LLC,LLC,True,,Active,2026-09-18,Plainfield,CT,06374,,551112,Offices of Other Holding Companies,,,https://data.ct.gov/d/n7gp-d28j
+CT,3508706,Engleman Fallon Limited Liability Partnership,PARTNERSHIP,LLP,False,DISTRICT OF COLUMBIA,Active,2026-09-18,,,,,541110,Offices of Lawyers,,,https://data.ct.gov/d/n7gp-d28j
+CT,3514299,"Stonecroft Restaurant Holding, LLC",LLC,LLC,True,Connecticut,Active,2026-09-18,Ledyard,CT,06339,,722511,Full-Service Restaurants,,,https://data.ct.gov/d/n7gp-d28j
+CT,3515005,RIO BRAVO OF RIDGEFIELD LLC,LLC,LLC,True,Connecticut,Active,2026-09-18,Larchmont,NY,10538-3017,,722511,Full-Service Restaurants,,,https://data.ct.gov/d/n7gp-d28j
+CT,3515121,Elite Media Group Inc.,CORPORATION,Stock,False,NEW YORK,Active,2026-09-18,Cedarhurst,NY,11516,,541810,Advertising Agencies,,,https://data.ct.gov/d/n7gp-d28j
+CT,3517045,"DIVERSE PIPELINE SERVICES, LLC",LLC,LLC,False,LOUISIANA,Active,2026-09-18,Monroe,LA,71203,,541990,"All Other Professional, Scientific, and Technical Services",,,https://data.ct.gov/d/n7gp-d28j
+CT,3517198,Rebondir LLC,LLC,LLC,True,Connecticut,Active,2026-09-18,Hartford,CT,06103-2449,,458110,Clothing and Clothing Accessories Retailers,,,https://data.ct.gov/d/n7gp-d28j
+CT,3517369,"Marcky's Fighters, Inc.",NONPROFIT,Non-Stock,True,Connecticut,Active,2026-09-18,,,,,813319,Other Social Advocacy Organizations,,,https://data.ct.gov/d/n7gp-d28j
+CT,3518175,Compel Graphics and Printing LLC,LLC,LLC,False,ALABAMA,Active,2026-09-18,Theodore,AL,36582,,541430,Graphic Design Services,,,https://data.ct.gov/d/n7gp-d28j
+CT,3518449,"262 Flax Hill Rd., LLC",LLC,LLC,True,Connecticut,Active,2026-09-18,Norwalk,CT,06850-2419,,531190,Lessors of Other Real Estate Property,,,https://data.ct.gov/d/n7gp-d28j
+CT,3518757,MFD SWEETS INC,CORPORATION,Stock,True,Connecticut,Active,2026-09-18,Vernon Rockville,CT,06066-3504,,445292,Confectionery and Nut Retailers,,,https://data.ct.gov/d/n7gp-d28j
+CT,3518760,Loxha Property Holdings LLC,LLC,LLC,True,Connecticut,Active,2026-09-18,Harrison,NY,10528,,531110,Lessors of Residential Buildings and Dwellings,,,https://data.ct.gov/d/n7gp-d28j
+CT,3518761,health4wealth LLC,LLC,LLC,True,Connecticut,Active,2026-09-18,Berlin,CT,06037-1437,,445131,Convenience Retailers,,,https://data.ct.gov/d/n7gp-d28j
+CT,3518765,18 Lives LLC,LLC,LLC,True,Connecticut,Active,2026-09-18,West Hartford,CT,06117-2642,,513210,Software Publishers,,,https://data.ct.gov/d/n7gp-d28j
+CT,3518766,Smiles Redefined LLC,LLC,LLC,True,Connecticut,Active,2026-09-18,West Hartford,CT,06107,,621210,Offices of Dentists,,,https://data.ct.gov/d/n7gp-d28j
+CT,3518770,Sideline North Co. LLC,LLC,LLC,True,Connecticut,Active,2026-09-18,Burlington,CT,06013-2427,,458110,Clothing and Clothing Accessories Retailers,,,https://data.ct.gov/d/n7gp-d28j
+CT,3518772,Mi Cielo Coffee LLC,LLC,LLC,True,Connecticut,Active,2026-09-18,Enfield,CT,06082-3906,,722330,Mobile Food Services,,,https://data.ct.gov/d/n7gp-d28j
+CT,3518774,Iso Sports Capital LLC,LLC,LLC,True,Connecticut,Active,2026-09-18,Glastonbury,CT,06033,,523940,Portfolio Management and Investment Advice,,,https://data.ct.gov/d/n7gp-d28j
+CT,3518776,Clarke Center Inc.,NONPROFIT,Non-Stock,True,Connecticut,Active,2026-09-18,,,,,624410,Child Care Services,,,https://data.ct.gov/d/n7gp-d28j
+CT,3518784,RC2 Ventures LLC,LLC,LLC,True,Connecticut,Active,2026-09-18,Glastonbury,CT,06033-4617,,551112,Offices of Other Holding Companies,,,https://data.ct.gov/d/n7gp-d28j
+CT,3518791,ParamedicOPS Limited Liability Company,LLC,LLC,True,Connecticut,Active,2026-09-18,Enfield,CT,06082-2919,,513210,Software Publishers,,,https://data.ct.gov/d/n7gp-d28j
+CT,3518793,SwapRound LLC,LLC,LLC,True,Connecticut,Active,2026-09-18,Norwalk,CT,06851-6167,,519290,Web Search Portals and All Other Information Services,,,https://data.ct.gov/d/n7gp-d28j
+CT,3518796,DenValor HR Solution LLC,LLC,LLC,True,Connecticut,Active,2026-09-18,Hamden,CT,06514,,541612,Human Resources Consulting Services,,,https://data.ct.gov/d/n7gp-d28j
+CT,3518799,VillaCon Group LLC,LLC,LLC,True,Connecticut,Active,2026-09-18,New Milford,CT,06776-5119,,811121,"Automotive Body, Paint, and Interior Repair and Maintenance",,,https://data.ct.gov/d/n7gp-d28j
+CT,3518800,CJM Super Bargains LLC,LLC,LLC,True,Connecticut,Active,2026-09-18,Southington,CT,06489,,455219,All Other General Merchandise Retailers,,,https://data.ct.gov/d/n7gp-d28j
+CT,3518810,Mike and The Boys Painting and Contracting LLC,LLC,LLC,True,Connecticut,Active,2026-09-18,Greenwich,CT,06831-4312,,238320,Painting and Wall Covering Contractors,,,https://data.ct.gov/d/n7gp-d28j
+CT,3518814,Eternal Holdings LLC,LLC,LLC,True,Connecticut,Active,2026-09-18,Thompson,CT,06277-1929,,541611,Administrative Management and General Management Consulting Services,,,https://data.ct.gov/d/n7gp-d28j
+CT,3518746,Lebramont Specialty Physicians PLLC,LLC,LLC,True,Connecticut,Active,2026-09-19,Avon,CT,06001,,621111,Offices of Physicians except Mental Health Specialists,,,https://data.ct.gov/d/n7gp-d28j
+CT,3519341,Beacon Ledge Properties LLC,LLC,LLC,True,Connecticut,Active,2026-09-19,Pawcatuck,CT,06379-1257,,531110,Lessors of Residential Buildings and Dwellings,,,https://data.ct.gov/d/n7gp-d28j
+CT,3519349,Ultra Tech Electric LLC,LLC,LLC,True,Connecticut,Active,2026-09-19,MERIDEN,CT,06451-5025,,238210,Electrical Contractors and Other Wiring Installation Contractors,,,https://data.ct.gov/d/n7gp-d28j
+CT,3519357,"Read Between the Wines, LLC",LLC,LLC,True,Connecticut,Active,2026-09-19,Milford,CT,06460,,711320,"Promoters of Performing Arts, Sports, and Similar Events without Facilities",,,https://data.ct.gov/d/n7gp-d28j
+CT,3519362,Jp glass and shower door LLC,LLC,LLC,True,Connecticut,Active,2026-09-19,New Haven,CT,06513-3714,,238990,All Other Specialty Trade Contractors,,,https://data.ct.gov/d/n7gp-d28j
+CT,3519367,DeVille Enterprises LLC,LLC,LLC,True,Connecticut,Active,2026-09-19,Bristol,CT,06010-7326,,484110,"General Freight Trucking, Local",,,https://data.ct.gov/d/n7gp-d28j
+CT,3519371,Marcia�s Icecream LLC,LLC,LLC,True,Connecticut,Active,2026-09-19,Stamford,CT,06906-1019,,722320,Caterers,,,https://data.ct.gov/d/n7gp-d28j
+CT,3519373,GAB&K Rentals LLC,LLC,LLC,True,Connecticut,Active,2026-09-19,Bridgeport,CT,06608-2114,,532111,Passenger Car Rental,,,https://data.ct.gov/d/n7gp-d28j
+CT,3519378,JV Runner LLC,LLC,LLC,True,Connecticut,Active,2026-09-19,Meriden,CT,06451,,484121,"General Freight Trucking, Long-Distance, Truckload",,,https://data.ct.gov/d/n7gp-d28j
+CT,3519380,Portillo General Services Corporation,CORPORATION,Stock,True,Connecticut,Active,2026-09-19,,,,,561730,Landscaping Services,,,https://data.ct.gov/d/n7gp-d28j
+CT,3519385,"Raymond Street Endeavors, S Corp.",CORPORATION,Stock,True,Connecticut,Dissolved,2026-09-19,,,,,611610,Fine Arts Schools,,,https://data.ct.gov/d/n7gp-d28j
+CT,3519393,Jexi Distribution Group LLC,LLC,LLC,True,Connecticut,Active,2026-09-19,Stamford,CT,06901,,455219,All Other General Merchandise Retailers,,,https://data.ct.gov/d/n7gp-d28j
+CT,3519394,Blazin Treats LLC,LLC,LLC,True,Connecticut,Active,2026-09-19,Waterbury,CT,06704,,455219,All Other General Merchandise Retailers,,,https://data.ct.gov/d/n7gp-d28j
+CT,3519398,anant LLC,LLC,LLC,True,Connecticut,Active,2026-09-19,Colchester,CT,06415-1225,,445320,"Beer, Wine, and Liquor Retailers",,,https://data.ct.gov/d/n7gp-d28j
+CT,3519405,Emuni LLC,LLC,LLC,True,Connecticut,Active,2026-09-19,Vernon Rockville,CT,06066-2370,,458110,Clothing and Clothing Accessories Retailers,,,https://data.ct.gov/d/n7gp-d28j
+CT,3519411,Blue Wolf X Construction Management LLC,LLC,LLC,False,WYOMING,Active,2026-09-19,cheyenne,WY,82001,,238320,Painting and Wall Covering Contractors,,,https://data.ct.gov/d/n7gp-d28j
+CT,3519417,We Craftmore LLC,LLC,LLC,True,Connecticut,Active,2026-09-19,North Franklin,CT,06254-1613,,339999,All Other Miscellaneous Manufacturing,,,https://data.ct.gov/d/n7gp-d28j
+CT,3519419,EMT FRESH SPACE LLC,LLC,LLC,True,Connecticut,Active,2026-09-19,Danbury,CT,06810-6726,,561720,Janitorial Services,,,https://data.ct.gov/d/n7gp-d28j
+CT,3519422,Wheelhouse BBQ HoldCo LLC,LLC,LLC,True,Connecticut,Active,2026-09-19,Stamford,CT,06902,,551112,Offices of Other Holding Companies,,,https://data.ct.gov/d/n7gp-d28j
+CT,3519423,PUNJAB CONVENIENCE HOLDINGS LLC,LLC,LLC,True,Connecticut,Active,2026-09-19,North Haven,CT,06473-2175,,445131,Convenience Retailers,,,https://data.ct.gov/d/n7gp-d28j
+CT,3519428,Capital Crown LLC,LLC,LLC,True,Connecticut,Active,2026-09-19,Wallingford,CT,06492-5630,,458310,Jewelry Retailers,,,https://data.ct.gov/d/n7gp-d28j
+CT,3519429,"K3RV, LLC",LLC,LLC,True,Connecticut,Active,2026-09-19,Norwalk,CT,06855,,812990,All Other Personal Services,,,https://data.ct.gov/d/n7gp-d28j
+CT,3519431,Bright Steps Transportation LLC,LLC,LLC,True,Connecticut,Active,2026-09-19,Manchester,CT,06040-6211,,485410,School and Employee Bus Transportation,,,https://data.ct.gov/d/n7gp-d28j
+CT,3519443,Leon Elite Property Care LLC,LLC,LLC,True,Connecticut,Active,2026-09-19,Bridgeport,CT,06694,,236118,Residential Remodelers,,,https://data.ct.gov/d/n7gp-d28j
+CT,3519446,Ascend Housing Consultants LLC,LLC,LLC,True,Connecticut,Active,2026-09-19,Meriden,CT,06450,,541618,Other Management Consulting Services,,,https://data.ct.gov/d/n7gp-d28j
+CT,3519448,Waves LLC,LLC,LLC,True,Connecticut,Active,2026-09-19,North Haven,CT,06473-3308,,812112,Beauty Salons,,,https://data.ct.gov/d/n7gp-d28j
+CT,3519452,Conwell & Co LLC,LLC,LLC,True,Connecticut,Active,2026-09-19,Darien,CT,06820-3129,,541613,Marketing Consulting Services,,,https://data.ct.gov/d/n7gp-d28j
+CT,3519460,Scopes Reference Data LLC,LLC,LLC,True,Connecticut,Active,2026-09-19,Hartford,CT,06103-2835,,519290,Web Search Portals and All Other Information Services,,,https://data.ct.gov/d/n7gp-d28j
+CT,3519464,TA INFINITY CONSTRUCTION LLC,LLC,LLC,True,Connecticut,Active,2026-09-19,Monroe,CT,06468-2447,,236118,Residential Remodelers,,,https://data.ct.gov/d/n7gp-d28j
+CT,3507383,A Proactive Movement Corporation,NONPROFIT,Non-Stock,True,,Active,2026-09-20,,,,,561210,Facilities Support Services,,,https://data.ct.gov/d/n7gp-d28j
+CT,3519610,LaNorsa Soap Co LLC,LLC,LLC,True,Connecticut,Active,2026-09-20,Bethel,CT,06801-1423,,325611,Soap and Other Detergent Manufacturing,,,https://data.ct.gov/d/n7gp-d28j
+CT,3519611,Unrestricted Growth LLC,LLC,LLC,True,Connecticut,Active,2026-09-20,Southington,CT,06489-1066,,541611,Administrative Management and General Management Consulting Services,,,https://data.ct.gov/d/n7gp-d28j
+CT,3519621,BuildAll LLC,LLC,LLC,True,Connecticut,Active,2026-09-20,West Hartford,CT,06119-2217,,236118,Residential Remodelers,,,https://data.ct.gov/d/n7gp-d28j
+CT,3519622,Danjaro LLC,LLC,LLC,True,Connecticut,Active,2026-09-20,Farmington,CT,06032-2500,,532289,All Other Consumer Goods Rental,,,https://data.ct.gov/d/n7gp-d28j
+CT,3519625,IRONWELL LLC,LLC,LLC,True,Connecticut,Active,2026-09-20,Bethel,CT,06801-1202,,238220,"Plumbing, Heating, and Air-Conditioning Contractors",,,https://data.ct.gov/d/n7gp-d28j
+CT,3519635,Codec Technology Consulting LLC,LLC,LLC,True,Connecticut,Active,2026-09-20,Southington,CT,06489-4144,,541618,Other Management Consulting Services,,,https://data.ct.gov/d/n7gp-d28j
+CT,3519636,"KSG Realty, LLC",LLC,LLC,True,Connecticut,Active,2026-09-20,WEST HAVEN,CT,06516,,531312,Nonresidential Property Managers,,,https://data.ct.gov/d/n7gp-d28j
+CT,3519638,SWT Fiduciary Services llc,LLC,LLC,True,Connecticut,Active,2026-09-20,Hartford,CT,06106-2901,,624190,Other Individual and Family Services,,,https://data.ct.gov/d/n7gp-d28j
+CT,3519645,AOHD Ventures LLC,LLC,LLC,True,Connecticut,Active,2026-09-20,Morris,CT,06763-1509,,711510,"Independent Artists, Writers, and Performers",,,https://data.ct.gov/d/n7gp-d28j
+CT,3519646,PTJ 50 York st LLC,LLC,LLC,True,Connecticut,Active,2026-09-20,Glastonbury,CT,06033,,531110,Lessors of Residential Buildings and Dwellings,,,https://data.ct.gov/d/n7gp-d28j
+CT,3519661,The Coastal Local Collective LLC,LLC,LLC,True,Connecticut,Active,2026-09-20,Shelton,CT,06484,,459420,"Gift, Novelty, and Souvenir Retailers",,,https://data.ct.gov/d/n7gp-d28j
+CT,3519665,Wasley Accounting & Advisory LLC,LLC,LLC,True,Connecticut,Active,2026-09-20,West Hartford,CT,06117-1312,,541219,Other Accounting Services,,,https://data.ct.gov/d/n7gp-d28j
+CT,3519669,Piccarello Managemet LLC,LLC,LLC,True,Connecticut,Active,2026-09-20,Bolton,CT,06043-7839,,531311,Residential Property Managers,,,https://data.ct.gov/d/n7gp-d28j
+CT,3519676,La Cucharita LLC,LLC,LLC,True,Connecticut,Active,2026-09-20,Hamden,CT,06514,,311991,Perishable Prepared Food Manufacturing,,,https://data.ct.gov/d/n7gp-d28j
+CT,3519683,BUILT with Bec Nutrition Coaching LLC,LLC,LLC,True,Connecticut,Active,2026-09-20,Tolland,CT,06084-3761,,812990,All Other Personal Services,,,https://data.ct.gov/d/n7gp-d28j
+CT,3519688,"All American Turf Management, LLC",LLC,LLC,False,PENNSYLVANIA,Active,2026-09-20,Monroeville,PA,15146-3100,,238990,All Other Specialty Trade Contractors,,,https://data.ct.gov/d/n7gp-d28j
+CT,3519689,RockUniverse LLC,LLC,LLC,True,Connecticut,Active,2026-09-20,Waterbury,CT,06705,,513210,Software Publishers,,,https://data.ct.gov/d/n7gp-d28j
+CT,3519695,MANCHESTER CATERING SERVICE LLC,LLC,LLC,True,Connecticut,Active,2026-09-20,Manchester,CT,06040-4001,,722330,Mobile Food Services,,,https://data.ct.gov/d/n7gp-d28j
+CT,3519702,Vectis Compute LLC,LLC,LLC,True,Connecticut,Active,2026-09-20,West Haven,CT,06516-6126,,541511,Custom Computer Programming Services,,,https://data.ct.gov/d/n7gp-d28j
+CT,3519707,Nevaeh Jean LLC,LLC,LLC,True,Connecticut,Active,2026-09-20,Pawcatuck,CT,06379-1233,,339910,Jewelry and Silverware Manufacturing,,,https://data.ct.gov/d/n7gp-d28j
+CT,3519711,Bubbyz Brands LLC,LLC,LLC,True,Connecticut,Active,2026-09-20,Greenwich,CT,06830-5236,,339930,"Doll, Toy, and Game Manufacturing",,,https://data.ct.gov/d/n7gp-d28j
+CT,3519712,Hibachi Buffet9 LLC,LLC,LLC,True,Connecticut,Active,2026-09-20,Bristol,CT,06010-4226,,722511,Full-Service Restaurants,,,https://data.ct.gov/d/n7gp-d28j
+CT,3519713,AMCR Beauty And More LLC,LLC,LLC,True,Connecticut,Active,2026-09-20,new Britain,CT,06051,,455219,All Other General Merchandise Retailers,,,https://data.ct.gov/d/n7gp-d28j
+CT,3519718,MoMotaro Sushi17 LLC,LLC,LLC,True,Connecticut,Active,2026-09-20,Fairfield,CT,06824-5719,,722511,Full-Service Restaurants,,,https://data.ct.gov/d/n7gp-d28j
+CT,3519724,Northwoods Prints LLC,LLC,LLC,True,Connecticut,Active,2026-09-20,Goshen,CT,06058,,458110,Clothing and Clothing Accessories Retailers,,,https://data.ct.gov/d/n7gp-d28j
